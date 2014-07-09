@@ -1,6 +1,6 @@
 # List of Python API Wrappers
 
-Hi. Below you will find a list of web services along with documentation and Python wrappers/libraries links.
+Hi. Below you will find a list of web services along with links to their docs and Python wrappers/libraries.
 
 ### [Alexa Web](http://www.alexa.com/) - Web traffic data
 - [API Documentation](http://docs.aws.amazon.com/AlexaWebInfoService/latest/)
