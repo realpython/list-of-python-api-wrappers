@@ -268,7 +268,7 @@
 - [API Documentation](http://technorati.com/developers/)
 - [Python wrapper for Technorati](http://www.myelin.co.nz/technorati_py/)
 
-### Temp Mail - Anonymous emails
+### [Temp Mail](https://temp-mail.ru) - Anonymous emails
 - [API Documentation](http://api.temp-mail.ru/)
 - [Python wrapper for Temp mail](https://github.com/saippuakauppias/temp-mail)
 
