@@ -294,6 +294,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://www.tumblr.com/docs/en/api/v2)
 - [Python wrapper for Tumblr API](https://github.com/tumblr/pytumblr)
 
+### [Twilio](http://twilio.com/) - SMS and Voice through the cloud
+- [API Documentation](https://www.twilio.com/docs/python/install)
+- [Python wrapper for Twilio](https://github.com/twilio/twilio-python/)
+
 ### [Twitter](http://twitter.com/) - Online microblogging service
 - [API Documentation](https://dev.twitter.com/docs/twitter-libraries)
 - [Python wrapper for Twitter](http://code.google.com/p/python-twitter/)
