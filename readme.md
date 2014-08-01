@@ -142,6 +142,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://devcenter.heroku.com/articles/platform-api-reference)
 - [Python wrapper for Heroku](https://pypi.python.org/pypi/heroku)
 
+### [Hadoop YARN](http://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html) - Apache Hadoop NextGen MapReduce (YARN)
+- [API Documentation](http://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/WebServicesIntro.html)
+- [Python wrapper for Hadoop YARN](https://pypi.python.org/pypi/yarn-api-client)
+
 ### [HipChat](https://www.hipchat.com/) - Hosted group chat and IM
 - [API Documentation](https://www.hipchat.com/docs/api)
 - [Python wrapper for HipChat](https://github.com/dobarkod/hipchat-api)
