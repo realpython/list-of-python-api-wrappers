@@ -1,10 +1,3 @@
-# 1
-## 2
-### 3
-#### 4
-##### 5
-###### 6
-
 # List of Python API Wrappers
 
 Hi. Below you will find a list of web services along with links to their docs and Python wrappers/libraries.
@@ -314,7 +307,7 @@ Info Data   | 2014/09/07
 **Observations and notes:**
 
  + **2014/09/07:**
-   - based on tmdbsimple, with implementation changes (meanwhile alterady present in tmdbsimple)
+   - based on tmdbsimple, with implementation changes (meanwhile already present in tmdbsimple)
 
 
 ##### themoviedb themoviedb.org wrapper for api v3
@@ -345,7 +338,7 @@ Info Data   | 2014/10/17
 **Observations and notes:**
 
  + **2014/10/17:**
-   - deprecated, see themoviedb
+   - deprecated
    
    
 ##### themoviedb  Python wrapper to themoviedb.org API
@@ -496,3 +489,6 @@ Info Data   | 2014/09/07
 
 1. http://www.pythonapi.com
 2. http://www.programmableweb.com/
+
+## Contributors:
+ - F3rn4nd0 Cé54r
