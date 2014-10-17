@@ -1,3 +1,10 @@
+# 1
+## 2
+### 3
+#### 4
+##### 5
+###### 6
+
 # List of Python API Wrappers
 
 Hi. Below you will find a list of web services along with links to their docs and Python wrappers/libraries.
@@ -286,9 +293,140 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://github.com/thekarangoel/TPB)
 - [Python wrapper for TPB](https://github.com/thekarangoel/TPB)
 
-### [TMDb](http://www.themoviedb.org) - The Movie Database
+### [The Movie Database](http://www.themoviedb.org) - Movie and TV Database
+
+#### Official Site
 - [API Documentation](http://docs.themoviedb.apiary.io)
-- [Python wrapper for TMDb](https://github.com/dbr/themoviedb)
+- [List of wrappers](https://www.themoviedb.org/documentation/api/wrappers-libraries)
+
+#### Wrappers
+
+
+##### easytmdb 0.2.0 : Python Package Index
+to          |   click
+------------|---------------
+Source Code | https://github.com/benregn/easytmdb
+PyPI Page   | https://pypi.python.org/pypi/easytmdb/0.2.0
+Py Support  |
+Last Update |
+Info Data   | 2014/09/07
+
+**Observations and notes:**
+
+ + **2014/09/07:**
+   - based on tmdbsimple, with implementation changes (meanwhile alterady present in tmdbsimple)
+
+
+##### themoviedb themoviedb.org wrapper for api v3
+to          |   click
+------------|---------------
+Source Code | https://github.com/doganaydin/themoviedb
+PyPI Page   | 
+Py Support  |
+Last Update |
+Info Data   | 2014/10/17
+
+**Observations and notes:**
+
+ + **2014/10/17:**
+   - supports API v3
+   - only movie search api is implemented.
+
+   
+##### themoviedb Python wrapper to themoviedb.org API
+to          |   click
+------------|---------------
+Source Code | https://github.com/doganaydin/themoviedb_oldapi
+PyPI Page   |
+Py Support  |
+Last Update |
+Info Data   | 2014/10/17
+
+**Observations and notes:**
+
+ + **2014/10/17:**
+   - deprecated, see themoviedb
+   
+   
+##### themoviedb  Python wrapper to themoviedb.org API
+to          |   click
+------------|---------------
+Source Code | https://github.com/dbr/themoviedb
+PyPI Page   |
+Py Support  | v. 2.6, v. 2.7, v. 3.3
+Last Update | 2013/05/31
+Info Data   | 2014/09/07
+
+
+##### TheMovieDB.bundle
+to          |   click
+------------|---------------
+Source Code | https://github.com/plexinc-agents/TheMovieDB.bundle
+PyPI Page   |
+Py Support  |
+Last Update | 2014/07/27
+Info Data   | 2014/09/07
+
+
+##### [themoviedb-json] Unofficial themoviedb.org python api wrapper
+to          |   click
+------------|---------------
+Source Code | https://github.com/doganaydin/themoviedb-json
+PyPI Page   |
+Last Update |
+Info Data   | 2014/09/07
+
+
+##### [tmdb] Python Package Index
+to          |   click
+------------|---------------
+Source Code |
+PyPI Page   | https://pypi.python.org/pypi/tmdb/1.0b
+Py Support  | v.2.7, v.3
+Last Update | version 1.0b
+Info Data   | 2014/09/07
+
+**Observations and notes:**
+ + **(2014/09/07)**
+   - deprecated
+
+
+##### TMDB Small application using TMDB APIs
+to          |   click
+------------|---------------
+Source Code | https://github.com/codershoder/TMDB
+PyPI Page   |
+Py Support  |
+Last Update |
+Info Data   | 2014/09/07
+
+
+##### [tmdbsimple](https://github.com/celiao/tmdbsimple) - A Python wrapper for The Movie Database API v3
+to          |   click
+------------|---------------
+Source Code | https://github.com/celiao/tmdbsimple
+PyPI Page   | https://pypi.python.org/pypi/tmdbsimple
+Py Support  |
+Last Update | version 1.0.0 (2014/09/22)
+Info Data   | 2014/09/07
+
+**Observations and notes:**
+
+ + **2014/09/07:**
+   - simply maps API endpoints to Pyhton funcionts
+   - supports v.3 of the API and the new Search/Multi endpoint
+
+
+##### [tmdb3] 0.7.0 : Python Package Index
+to          |   click
+------------|---------------
+Source Code |
+PyPI Page   | https://pypi.python.org/pypi/tmdb3
+Py Support  |
+Last Update | version 0.7.0 (?/?/?)
+Info Data   | 2014/09/07
+
+
 
 ### [Tuenti](https://www.tuenti.com) - Social networking service
 - [API Documentation](http://corporate.tuenti.com/en/dev)
@@ -354,7 +492,7 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://developers.google.com/youtube/)
 - [Python wrapper for YouTube](https://pypi.python.org/pypi/youtube-api-wrapper/0.2)
 
-## Sources:
+## Original Sources:
 
 1. http://www.pythonapi.com
 2. http://www.programmableweb.com/
