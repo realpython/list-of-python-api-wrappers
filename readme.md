@@ -302,7 +302,7 @@ Source Code | https://github.com/benregn/easytmdb
 PyPI Page   | https://pypi.python.org/pypi/easytmdb/0.2.0
 Py Support  |
 Last Update |
-Info Data   | 2014/09/07
+Info Date   | 2014/09/07
 
 **Observations and notes:**
 
@@ -317,7 +317,7 @@ Source Code | https://github.com/doganaydin/themoviedb
 PyPI Page   | 
 Py Support  |
 Last Update |
-Info Data   | 2014/10/17
+Info Date   | 2014/10/17
 
 **Observations and notes:**
 
@@ -333,7 +333,7 @@ Source Code | https://github.com/doganaydin/themoviedb_oldapi
 PyPI Page   |
 Py Support  |
 Last Update |
-Info Data   | 2014/10/17
+Info Date   | 2014/10/17
 
 **Observations and notes:**
 
@@ -348,7 +348,7 @@ Source Code | https://github.com/dbr/themoviedb
 PyPI Page   |
 Py Support  | v. 2.6, v. 2.7, v. 3.3
 Last Update | 2013/05/31
-Info Data   | 2014/09/07
+Info Date   | 2014/09/07
 
 
 ##### TheMovieDB.bundle
@@ -358,7 +358,7 @@ Source Code | https://github.com/plexinc-agents/TheMovieDB.bundle
 PyPI Page   |
 Py Support  |
 Last Update | 2014/07/27
-Info Data   | 2014/09/07
+Info Date   | 2014/09/07
 
 
 ##### [themoviedb-json] Unofficial themoviedb.org python api wrapper
@@ -367,7 +367,7 @@ to          |   click
 Source Code | https://github.com/doganaydin/themoviedb-json
 PyPI Page   |
 Last Update |
-Info Data   | 2014/09/07
+Info Date   | 2014/09/07
 
 
 ##### [tmdb] Python Package Index
@@ -377,7 +377,7 @@ Source Code |
 PyPI Page   | https://pypi.python.org/pypi/tmdb/1.0b
 Py Support  | v.2.7, v.3
 Last Update | version 1.0b
-Info Data   | 2014/09/07
+Info Date   | 2014/09/07
 
 **Observations and notes:**
  + **(2014/09/07)**
@@ -391,7 +391,7 @@ Source Code | https://github.com/codershoder/TMDB
 PyPI Page   |
 Py Support  |
 Last Update |
-Info Data   | 2014/09/07
+Info Date   | 2014/09/07
 
 
 ##### [tmdbsimple](https://github.com/celiao/tmdbsimple) - A Python wrapper for The Movie Database API v3
@@ -401,7 +401,7 @@ Source Code | https://github.com/celiao/tmdbsimple
 PyPI Page   | https://pypi.python.org/pypi/tmdbsimple
 Py Support  |
 Last Update | version 1.0.0 (2014/09/22)
-Info Data   | 2014/09/07
+Info Date   | 2014/09/07
 
 **Observations and notes:**
 
@@ -417,7 +417,7 @@ Source Code |
 PyPI Page   | https://pypi.python.org/pypi/tmdb3
 Py Support  |
 Last Update | version 0.7.0 (?/?/?)
-Info Data   | 2014/09/07
+Info Date   | 2014/09/07
 
 
 
@@ -490,5 +490,3 @@ Info Data   | 2014/09/07
 1. http://www.pythonapi.com
 2. http://www.programmableweb.com/
 
-## Contributors:
- - F3rn4nd0 Cé54r
