@@ -607,6 +607,5 @@ Info Date   | 2014/12/20
 
 ## Original Sources:
 
-1. http://www.pythonapi.com
-2. http://www.programmableweb.com/
+1. http://www.programmableweb.com/
 
