@@ -114,6 +114,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://www.flickr.com/services/api/)
 - [Python wrapper for Flickr](http://code.google.com/p/flickrpy/)
 
+### [Forecast](http://forecast.io/) - Weather forecasting
+- [API Documentation](https://developer.forecast.io/docs/v2)
+- [Python wrapper for Forecast](https://github.com/ZeevG/python-forecast.io)
+
 ### [Foursquare](https://www.foursquare.com/) - Location based networking
 - [API Documentation](https://developer.foursquare.com/)
 - [Python wrapper for Foursquare](https://github.com/mLewisLogic/foursquare)
@@ -314,7 +318,7 @@ Info Date   | 2014/09/07
 to          |   click
 ------------|---------------
 Source Code | https://github.com/doganaydin/themoviedb
-PyPI Page   | 
+PyPI Page   |
 Py Support  |
 Last Update |
 Info Date   | 2014/10/17
@@ -325,7 +329,7 @@ Info Date   | 2014/10/17
    - supports API v3
    - only movie search api is implemented.
 
-   
+
 ##### themoviedb Python wrapper to themoviedb.org API
 to          |   click
 ------------|---------------
@@ -339,8 +343,8 @@ Info Date   | 2014/10/17
 
  + **2014/10/17:**
    - deprecated
-   
-   
+
+
 ##### themoviedb  Python wrapper to themoviedb.org API
 to          |   click
 ------------|---------------
@@ -443,7 +447,7 @@ to          |   click
 ------------|---------------
 Source Code | https://github.com/steinitzu/gnarly-tvdb
 PyPI Page   | https://pypi.python.org/pypi/gnarlytvdb/0.6
-Py Support  | 
+Py Support  |
 Last Update | version 0.6 (2013/01/29)
 Info Date   | 2014/12/20
 
@@ -452,7 +456,7 @@ Info Date   | 2014/12/20
  + **2014/12/20:**
    - Does not implement actors and banners API
 
-   
+
 ##### pytvdb: A python library for interacting with TheTVDB.com API
 to          |   click
 ------------|---------------
@@ -537,7 +541,7 @@ Info Date   | 2014/12/21
  + **2014/12/21:**
    - This is a fork of version 1.8.1 of dbr/tvdb_api (https://github.com/dbr/tvdb_api/tree/master) recomended for use with TVDB Cache Server (https://github.com/fuzeman/tvdb-cache-server)
 
-   
+
 ##### tvdbpy: Yet another TvDB API Python wrapper. Work in progress.
 to          |   click
 ------------|---------------
@@ -548,7 +552,7 @@ Last Update | (2014/02/16)
 Info Date   | 2014/12/20
 
 
-   
+
 ### [Twilio](http://twilio.com/) - SMS and Voice through the cloud
 - [API Documentation](https://www.twilio.com/docs/python/install)
 - [Python wrapper for Twilio](https://github.com/twilio/twilio-python/)
