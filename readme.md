@@ -560,11 +560,11 @@ Info Date   | 2014/12/20
 - [Python wrapper for Twitter](http://code.google.com/p/python-twitter/)
 
 ### [Udacity](http://unirest.io/) - Online University
-- [API Documentation](http://unirest.io/#python)
+- [API Documentation](https://www.udacity.com/catalog-api)
 - [Python wrapper for Unirest](https://github.com/tylucaskelley/udacity-api-python)
 
 ### [Unirest](http://unirest.io/) - Set of lightweight HTTP libraries
-- [API Documentation](https://www.udacity.com/catalog-api)
+- [API Documentation](http://unirest.io/#python)
 - [Python wrapper for Unirest](https://github.com/Mashape/unirest-python)
 
 ### [UPS](http://www.ups.com) - Package Delivery
