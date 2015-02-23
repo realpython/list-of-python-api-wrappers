@@ -559,7 +559,7 @@ Info Date   | 2014/12/20
 - [API Documentation](https://dev.twitter.com/docs/twitter-libraries)
 - [Python wrapper for Twitter](http://code.google.com/p/python-twitter/)
 
-### [Udacity](http://unirest.io/) - Online University
+### [Udacity](https://www.udacity.com) - Online University
 - [API Documentation](https://www.udacity.com/catalog-api)
 - [Python wrapper for Unirest](https://github.com/tylucaskelley/udacity-api-python)
 
