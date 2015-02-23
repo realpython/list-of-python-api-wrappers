@@ -551,8 +551,6 @@ Py Support  |
 Last Update | (2014/02/16)
 Info Date   | 2014/12/20
 
-
-
 ### [Twilio](http://twilio.com/) - SMS and Voice through the cloud
 - [API Documentation](https://www.twilio.com/docs/python/install)
 - [Python wrapper for Twilio](https://github.com/twilio/twilio-python/)
@@ -561,8 +559,12 @@ Info Date   | 2014/12/20
 - [API Documentation](https://dev.twitter.com/docs/twitter-libraries)
 - [Python wrapper for Twitter](http://code.google.com/p/python-twitter/)
 
-### [Unirest](http://unirest.io/) - Set of lightweight HTTP libraries
+### [Udacity](http://unirest.io/) - Online University
 - [API Documentation](http://unirest.io/#python)
+- [Python wrapper for Unirest](https://github.com/tylucaskelley/udacity-api-python)
+
+### [Unirest](http://unirest.io/) - Set of lightweight HTTP libraries
+- [API Documentation](https://www.udacity.com/catalog-api)
 - [Python wrapper for Unirest](https://github.com/Mashape/unirest-python)
 
 ### [UPS](http://www.ups.com) - Package Delivery
