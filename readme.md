@@ -250,6 +250,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://www.slideshare.net/developers/documentation)
 - [Python wrapper for slideshare](http://code.google.com/p/pyslideshare/)
 
+### [Socrata Open Data API](http://www.socrata.com/) - Data discovery for government data
+- [API Documentation](http://dev.socrata.com/)
+- [Python wrapper for Socrata Open Data API](https://github.com/xmunoz/sodapy)
+
 ### [Soundcloud](http://www.soundcloud.com/) - Share your sounds
 - [API Documentation](http://developers.soundcloud.com/)
 - [Python wrapper for Soundcloud](https://github.com/soundcloud/soundcloud-python)
@@ -298,7 +302,6 @@ Hi. Below you will find a list of web services along with links to their docs an
 
 #### Wrappers
 
-
 ##### easytmdb 0.2.0 : Python Package Index
 to          |   click
 ------------|---------------
@@ -312,7 +315,6 @@ Info Date   | 2014/09/07
 
  + **2014/09/07:**
    - based on tmdbsimple, with implementation changes (meanwhile already present in tmdbsimple)
-
 
 ##### themoviedb themoviedb.org wrapper for api v3
 to          |   click
@@ -329,7 +331,6 @@ Info Date   | 2014/10/17
    - supports API v3
    - only movie search api is implemented.
 
-
 ##### themoviedb Python wrapper to themoviedb.org API
 to          |   click
 ------------|---------------
@@ -344,7 +345,6 @@ Info Date   | 2014/10/17
  + **2014/10/17:**
    - deprecated
 
-
 ##### themoviedb  Python wrapper to themoviedb.org API
 to          |   click
 ------------|---------------
@@ -353,7 +353,6 @@ PyPI Page   |
 Py Support  | v. 2.6, v. 2.7, v. 3.3
 Last Update | 2013/05/31
 Info Date   | 2014/09/07
-
 
 ##### TheMovieDB.bundle
 to          |   click
@@ -364,7 +363,6 @@ Py Support  |
 Last Update | 2014/07/27
 Info Date   | 2014/09/07
 
-
 ##### [themoviedb-json] Unofficial themoviedb.org python api wrapper
 to          |   click
 ------------|---------------
@@ -372,7 +370,6 @@ Source Code | https://github.com/doganaydin/themoviedb-json
 PyPI Page   |
 Last Update |
 Info Date   | 2014/09/07
-
 
 ##### [tmdb] Python Package Index
 to          |   click
@@ -387,7 +384,6 @@ Info Date   | 2014/09/07
  + **(2014/09/07)**
    - deprecated
 
-
 ##### TMDB Small application using TMDB APIs
 to          |   click
 ------------|---------------
@@ -396,7 +392,6 @@ PyPI Page   |
 Py Support  |
 Last Update |
 Info Date   | 2014/09/07
-
 
 ##### [tmdbsimple](https://github.com/celiao/tmdbsimple) - A Python wrapper for The Movie Database API v3
 to          |   click
@@ -413,7 +408,6 @@ Info Date   | 2014/09/07
    - simply maps API endpoints to Pyhton funcionts
    - supports v.3 of the API and the new Search/Multi endpoint
 
-
 ##### [tmdb3] 0.7.0 : Python Package Index
 to          |   click
 ------------|---------------
@@ -422,8 +416,6 @@ PyPI Page   | https://pypi.python.org/pypi/tmdb3
 Py Support  |
 Last Update | version 0.7.0 (?/?/?)
 Info Date   | 2014/09/07
-
-
 
 ### [Tuenti](https://www.tuenti.com) - Social networking service
 - [API Documentation](http://corporate.tuenti.com/en/dev)
@@ -438,9 +430,7 @@ Info Date   | 2014/09/07
 #### Official Site
 - [API Documentation](http://www.thetvdb.com/wiki/index.php/Programmers_API)
 
-
 #### Wrappers
-
 
 ##### gnarlytvdb: A python interface to thetvdb.com xml api
 to          |   click
@@ -540,7 +530,6 @@ Info Date   | 2014/12/21
 
  + **2014/12/21:**
    - This is a fork of version 1.8.1 of dbr/tvdb_api (https://github.com/dbr/tvdb_api/tree/master) recomended for use with TVDB Cache Server (https://github.com/fuzeman/tvdb-cache-server)
-
 
 ##### tvdbpy: Yet another TvDB API Python wrapper. Work in progress.
 to          |   click
