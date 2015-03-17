@@ -100,7 +100,7 @@ Hi. Below you will find a list of web services along with links to their docs an
 
 ### [Evernote](http://www.evernote.com/) - Notetaking software
 - [API Documentation](http://dev.evernote.com/doc/)
-- [Python Wrapper for Python](https://github.com/evernote/evernote-sdk-python)
+- [Python Wrapper for Evernote](https://github.com/evernote/evernote-sdk-python)
 
 ### [Facebook](http://www.facebook.com/) - Social networking service
 - [API Documentation](https://developers.facebook.com/)
@@ -405,7 +405,7 @@ Info Date   | 2014/09/07
 **Observations and notes:**
 
  + **2014/09/07:**
-   - simply maps API endpoints to Pyhton funcionts
+   - simply maps API endpoints to Python functions
    - supports v.3 of the API and the new Search/Multi endpoint
 
 ##### [tmdb3] 0.7.0 : Python Package Index
@@ -550,7 +550,7 @@ Info Date   | 2014/12/20
 
 ### [Udacity](https://www.udacity.com) - Online University
 - [API Documentation](https://www.udacity.com/catalog-api)
-- [Python wrapper for Unirest](https://github.com/tylucaskelley/udacity-api-python)
+- [Python wrapper for Udacity](https://github.com/tylucaskelley/udacity-api-python)
 
 ### [Unirest](http://unirest.io/) - Set of lightweight HTTP libraries
 - [API Documentation](http://unirest.io/#python)
@@ -582,7 +582,7 @@ Info Date   | 2014/12/20
 
 ### [Windows Azure](http://www.windowsazure.com/) - Microsoft's Cloud Platform
 - [API Documentation](http://www.windowsazure.com/en-us/develop/python/)
-- [Python wrapper for Python](https://github.com/WindowsAzure/azure-sdk-for-python)
+- [Python wrapper for Windows Azure](https://github.com/WindowsAzure/azure-sdk-for-python)
 
 ### [Wordnik](http://www.wordnik.com) - Online dictionary
 - [API Documentation](http://developer.wordnik.com)
