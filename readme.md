@@ -596,11 +596,13 @@ Info Date   | 2014/12/20
 - [API Documentation](http://www.yelp.com/developers/documentation)
 - [Python wrapper for Yelp](https://github.com/mathisonian/python-yelp-v2)
 
+### [You Need a Budget (YNAB)](http://www.youneedabudget.com/) - Personal budgeting software
+- [Python wrapper for YNAB](https://github.com/aldanor/pynab)
+
 ### [YouTube](http://www.youtube.com) - Video-sharing website
 - [API Documentation](https://developers.google.com/youtube/)
 - [Python wrapper for YouTube](https://pypi.python.org/pypi/youtube-api-wrapper/0.2)
 
-## Original Sources:
+## Original Source:
 
 1. http://www.programmableweb.com/
-
