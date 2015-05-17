@@ -100,7 +100,7 @@ Hi. Below you will find a list of web services along with links to their docs an
 
 ### [Evernote](http://www.evernote.com/) - Notetaking software
 - [API Documentation](http://dev.evernote.com/doc/)
-- [Python Wrapper for Python](https://github.com/evernote/evernote-sdk-python)
+- [Python Wrapper for Evernote](https://github.com/evernote/evernote-sdk-python)
 
 ### [Facebook](http://www.facebook.com/) - Social networking service
 - [API Documentation](https://developers.facebook.com/)
@@ -142,13 +142,17 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://developers.google.com/google-apps/spreadsheets/)
 - [Python wrapper for Google Spreadsheet](https://github.com/yoavaviram/python-google-spreadsheet)
 
+### [Hadoop YARN](http://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html) - Apache Hadoop NextGen MapReduce (YARN)
+- [API Documentation](http://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/WebServicesIntro.html)
+- [Python wrapper for Hadoop YARN](https://pypi.python.org/pypi/yarn-api-client)
+
 ### [Heroku](https://www.heroku.com/) - Cloud Application Platform
 - [API Documentation](https://devcenter.heroku.com/articles/platform-api-reference)
 - [Python wrapper for Heroku](https://pypi.python.org/pypi/heroku)
 
-### [Hadoop YARN](http://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html) - Apache Hadoop NextGen MapReduce (YARN)
-- [API Documentation](http://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/WebServicesIntro.html)
-- [Python wrapper for Hadoop YARN](https://pypi.python.org/pypi/yarn-api-client)
+### [Highrise](https://highrisehq.com/) - Contact management tool (CRM)
+- [API Documentation](https://github.com/basecamp/highrise-api)
+- [Python wrapper for Highrise](https://github.com/feedmagnet/pyrise)
 
 ### [HipChat](https://www.hipchat.com/) - Hosted group chat and IM
 - [API Documentation](https://www.hipchat.com/docs/api)
@@ -405,7 +409,7 @@ Info Date   | 2014/09/07
 **Observations and notes:**
 
  + **2014/09/07:**
-   - simply maps API endpoints to Pyhton funcionts
+   - simply maps API endpoints to Python functions
    - supports v.3 of the API and the new Search/Multi endpoint
 
 ##### [tmdb3] 0.7.0 : Python Package Index
@@ -548,9 +552,13 @@ Info Date   | 2014/12/20
 - [API Documentation](https://dev.twitter.com/docs/twitter-libraries)
 - [Python wrapper for Twitter](http://code.google.com/p/python-twitter/)
 
+### [Uber](https://www.uber.com/) - Taxi, private car or rideshare service
+- [API Documentation](https://developer.uber.com/v1/endpoints/)
+- [Python wrapper for Uber](https://github.com/vivangkumar/uberpy)
+
 ### [Udacity](https://www.udacity.com) - Online University
 - [API Documentation](https://www.udacity.com/catalog-api)
-- [Python wrapper for Unirest](https://github.com/tylucaskelley/udacity-api-python)
+- [Python wrapper for Udacity](https://github.com/tylucaskelley/udacity-api-python)
 
 ### [Unirest](http://unirest.io/) - Set of lightweight HTTP libraries
 - [API Documentation](http://unirest.io/#python)
@@ -582,7 +590,7 @@ Info Date   | 2014/12/20
 
 ### [Windows Azure](http://www.windowsazure.com/) - Microsoft's Cloud Platform
 - [API Documentation](http://www.windowsazure.com/en-us/develop/python/)
-- [Python wrapper for Python](https://github.com/WindowsAzure/azure-sdk-for-python)
+- [Python wrapper for Windows Azure](https://github.com/WindowsAzure/azure-sdk-for-python)
 
 ### [Wordnik](http://www.wordnik.com) - Online dictionary
 - [API Documentation](http://developer.wordnik.com)
