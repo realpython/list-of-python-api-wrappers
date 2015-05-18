@@ -94,10 +94,6 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://embed.ly/docs/embed/api/endpoints/1/oembed)
 - [Python wrapper for Embedly](https://github.com/embedly/embedly-python)
 
-### [ESPN](http://www.espn.com) - Television Channel
-- [API Documentation](http://developer.espn.com/docs)
-- [Python wrapper for ESPN](https://github.com/tixocloud/espyn)
-
 ### [Evernote](http://www.evernote.com/) - Notetaking software
 - [API Documentation](http://dev.evernote.com/doc/)
 - [Python Wrapper for Evernote](https://github.com/evernote/evernote-sdk-python)
