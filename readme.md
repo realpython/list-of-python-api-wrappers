@@ -206,6 +206,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://developer.netflix.com/)
 - [Python wrapper for Netflix](https://github.com/jcopenha/pyflix)
 
+### [OneTimeSecret](https://onetimesecret.com/) - Self-destructing messaging service
+- [API Documentation](https://onetimesecret.com/docs/api)
+- [Python wrapper for OneTimeSecret](https://github.com/utter-step/py_onetimesecret)
+
 ### [PagerDuty](http://pagerduty.com/) - IT alert monitoring
 - [API Documentation](http://developer.pagerduty.com/documentation/integration/events)
 - [Python Wrapper for PagerDuty](https://github.com/dropbox/pygerduty)
