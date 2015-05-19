@@ -246,6 +246,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://doc.scrapinghub.com/api.html)
 - [Python wrapper for Scrapinghub](https://github.com/scrapinghub/python-scrapinghub)
 
+### [Slack](https://slack.com/) - Team Communication Platform
+- [API Documentation](https://api.slack.com/)
+- [Python wrapper for Slack](https://github.com/os/slacker)
+
 ### [Slideshare](https://www.slideshare.net/) - Slide hosting service
 - [API Documentation](http://www.slideshare.net/developers/documentation)
 - [Python wrapper for slideshare](http://code.google.com/p/pyslideshare/)
