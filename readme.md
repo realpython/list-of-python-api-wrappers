@@ -14,16 +14,9 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://aws.amazon.com/documentation/)
 - [Python wrapper for AWS](https://github.com/boto/boto)
 
-#### Wrappers
-
-##### xethorn/garcon: Framework for AWS SWF
-to          |   click
-------------|---------------
-Source Code | http://github.com/xethorn/garcon
-PyPI Page   | https://pypi.python.org/pypi/garcon
-Py Support  | v.2.7 and v.3.4 (tested.)
-Last Update | version 3 (2015/05/12)
-Info Date   | 2015/05/12
+### [AWS - Amazon Simple Workflow) -Oorchestration service for building scalable distributed applications
+- [API Documentation](http://aws.amazon.com/documentation/swf/)
+- [Python wrapper for Amazon Simple Workflow](http://github.com/xethorn/garcon)
 
 ### [Archive.org](http://archive.org/) - Internet Archive
 - [API Documentation](http://archive.org/help/json.php)
