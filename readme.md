@@ -14,7 +14,7 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://aws.amazon.com/documentation/)
 - [Python wrapper for AWS](https://github.com/boto/boto)
 
-### [AWS - Amazon Simple Workflow) -Oorchestration service for building scalable distributed applications
+### [AWS - Amazon Simple Workflow](http://aws.amazon.com/swf/) -Oorchestration service for building scalable distributed applications
 - [API Documentation](http://aws.amazon.com/documentation/swf/)
 - [Python wrapper for Amazon Simple Workflow](http://github.com/xethorn/garcon)
 
