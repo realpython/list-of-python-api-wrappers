@@ -558,7 +558,8 @@ Info Date   | 2014/12/20
 
 ### [Twitter](http://twitter.com/) - Online microblogging service
 - [API Documentation](https://dev.twitter.com/docs/twitter-libraries)
-- [Python wrapper for Twitter](http://code.google.com/p/python-twitter/)
+- [Python wrapper for Twitter](http://code.google.com/p/python-twitter/) - python-twitter
+- [Python wrapper for Twitter](https://github.com/inueni/birdy) - birdy
 
 ### [Uber](https://www.uber.com/) - Taxi, private car or rideshare service
 - [API Documentation](https://developer.uber.com/v1/endpoints/)
