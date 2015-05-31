@@ -609,7 +609,7 @@ Info Date   | 2014/12/20
 - [API Documentation](http://developer.yahoo.com/python/python-rest.html)
 - [Python wrapper for Yahoo](http://code.google.com/p/python-weather-api/)
 
-### [Yahoo Query Language](https://developer.yahoo.com/yql) - is an SQL-like query language created by Yahoo
+### [Yahoo Query Language](https://developer.yahoo.com/yql) - SQL-like query language
 - [API Documentation](https://developer.yahoo.com/yql/guide/)
 - [Python wrapper for Yahoo Query Language](https://myql.readthedocs.org/en/latest/)
 
