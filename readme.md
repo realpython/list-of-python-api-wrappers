@@ -206,6 +206,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://metwit.com/weather-api/)
 - [Python wrapper for Metwit](http://soup.metwit.com/post/45997437810/python-weather-by-metwit)
 
+### [NASA](http://www.nasa.gov/) - National Aeronautics and Space Administration
+- [API Documentation](https://data.nasa.gov/developer)
+- [Python wrapper for NASA](https://github.com/emirozer/bowshock)
+
 ### [Netflix](http://www.netflix.com/) - On-demand streaming media
 - [API Documentation](http://developer.netflix.com/)
 - [Python wrapper for Netflix](https://github.com/jcopenha/pyflix)
