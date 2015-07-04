@@ -142,6 +142,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://developers.google.com/google-apps/spreadsheets/)
 - [Python wrapper for Google Spreadsheet](https://github.com/yoavaviram/python-google-spreadsheet)
 
+### [Hacker News](https://github.com/HackerNews/API) - Social News
+- [API Documentation](https://github.com/avinassh/haxor/)
+- [Python wrapper for Hacker News Hacker News](https://github.com/avinassh/haxor/)
+
 ### [Hadoop YARN](http://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html) - Apache Hadoop NextGen MapReduce (YARN)
 - [API Documentation](http://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/WebServicesIntro.html)
 - [Python wrapper for Hadoop YARN](https://pypi.python.org/pypi/yarn-api-client)
