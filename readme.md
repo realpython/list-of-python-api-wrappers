@@ -148,7 +148,7 @@ Hi. Below you will find a list of web services along with links to their docs an
 
 ### [Hacker News](https://news.ycombinator.com/) - Social News
 - [API Documentation](https://github.com/HackerNews/API)
-- [Python wrapper for Hacker News Hacker News](https://github.com/avinassh/haxor/)
+- [Python wrapper for Hacker News](https://github.com/avinassh/haxor/)
 
 ### [Hadoop YARN](http://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html) - Apache Hadoop NextGen MapReduce (YARN)
 - [API Documentation](http://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/WebServicesIntro.html)
