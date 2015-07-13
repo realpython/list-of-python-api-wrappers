@@ -613,6 +613,10 @@ Info Date   | 2014/12/20
 - [API Documentation](http://www.windowsazure.com/en-us/develop/python/)
 - [Python wrapper for Windows Azure](https://github.com/WindowsAzure/azure-sdk-for-python)
 
+### [WooCommerce](http://www.woothemes.com/woocommerce/) - Ecommerce
+- [API Documentation](http://docs.woothemes.com/document/woocommerce-rest-api/)
+- [Python wrapper for WooCommerce](https://github.com/woothemes/wc-api-python)
+
 ### [Wordnik](http://www.wordnik.com) - Online dictionary
 - [API Documentation](http://developer.wordnik.com)
 - [Python wrapper for Wordnik](https://github.com/wordnik/wordnik-python)
