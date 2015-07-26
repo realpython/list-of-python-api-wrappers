@@ -2,6 +2,10 @@
 
 Hi. Below you will find a list of web services along with links to their docs and Python wrappers/libraries.
 
+### [3taps](https://3taps.com/) - Data Exchange
+- [API Documentation](http://docs.3taps.com/)
+- [Python wrapper for 3taps](https://github.com/mkolodny/3taps)
+
 ### [Alexa Web](http://www.alexa.com/) - Web traffic data
 - [API Documentation](http://docs.aws.amazon.com/AlexaWebInfoService/latest/)
 - [Python wrapper for Alexa Web](https://github.com/muhuk/python-awis)
