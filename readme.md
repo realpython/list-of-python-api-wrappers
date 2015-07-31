@@ -56,7 +56,7 @@ Hi. Below you will find a list of web services along with links to their docs an
 
 ### [Box](https://www.box.com/) - Online file sharing
 - [API Documentation](http://developers.box.com/)
-- [Python wrapper for Box](https://pypi.python.org/pypi/boxdotcom)
+- [Python wrapper for Box](https://github.com/box/box-python-sdk)
 
 ### [Braintree](https://www.braintreepayments.com/) - Accept Payments Online
 - [API Documentation](https://www.braintreepayments.com/developers)
