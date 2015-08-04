@@ -116,7 +116,7 @@ Hi. Below you will find a list of web services along with links to their docs an
 
 ### [Flickr](http://www.flickr.com) - Image and Video hosting
 - [API Documentation](http://www.flickr.com/services/api/)
-- [Python wrapper for Flickr]http://stuvel.eu/media/flickrapi-docs/documentation/)
+- [Python wrapper for Flickr](http://stuvel.eu/media/flickrapi-docs/documentation/)
 
 ### [Forecast](http://forecast.io/) - Weather forecasting
 - [API Documentation](https://developer.forecast.io/docs/v2)
