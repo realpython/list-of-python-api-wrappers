@@ -445,6 +445,10 @@ Py Support  |
 Last Update | version 0.7.0 (?/?/?)
 Info Date   | 2014/09/07
 
+### [Trello](https://trello.com/) - Kanban boards
+- [API Documentation](https://trello.com/docs/index.html)
+- [Python wrapper for Trello](https://github.com/sarumont/py-trello)
+
 ### [Tuenti](https://www.tuenti.com) - Social networking service
 - [API Documentation](http://corporate.tuenti.com/en/dev)
 - [Python wrapper for Tuenti](https://github.com/juanriaza/python-tuenti)
