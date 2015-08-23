@@ -190,6 +190,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://instagram.com/developer/)
 - [Python wrapper for Instagram](https://github.com/Instagram/python-instagram)
 
+### [iTunes Store](http://www.apple.com/itunes/) - Search engine for iTunes content
+- [API Documentation](https://www.apple.com/itunes/affiliates/resources/documentation/itunes-store-web-service-search-api.html)
+- [Python wrapper for iTunes Store](https://github.com/spaceisstrange/itunespy)
+
 ### [Jira](https://www.atlassian.com/software/jira) - Issue tracking product
 - [API Documentation](http://jira-python.readthedocs.org/en/latest/)
 - [Python wrapper for Jira](https://bitbucket.org/bspeakmon/jira-python)
