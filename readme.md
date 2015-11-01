@@ -281,7 +281,7 @@ Hi. Below you will find a list of web services along with links to their docs an
 ### [Scrapinghub](http://scrapinghub.com/) - Scraping services
 - [API Documentation](http://doc.scrapinghub.com/api.html)
 - [Python wrapper for Scrapinghub](https://github.com/scrapinghub/python-scrapinghub)
- 
+
 ### [Skyscanner](http://www.skyscanner.net/) - Travel metasearch
 - [API Documentation](http://business.skyscanner.net/portal/en-GB/Documentation/ApiOverview)
 - [Python wrapper for Skyscanner](https://github.com/Skyscanner/skyscanner-python-sdk)
@@ -644,6 +644,10 @@ Info Date   | 2014/12/20
 ### [Wordnik](http://www.wordnik.com) - Online dictionary
 - [API Documentation](http://developer.wordnik.com)
 - [Python wrapper for Wordnik](https://github.com/wordnik/wordnik-python)
+
+### [Wunderlist](https://www.wunderlist.com/) - Task Management Application
+- [API Documentation](https://developer.wunderlist.com/documentation)
+- [Python wrapper](https://github.com/mieubrisse/wunderpy2)
 
 ### [Yahoo](http://www.yahoo.com) - Web portal, search engine
 - [API Documentation](http://developer.yahoo.com/python/python-rest.html)
