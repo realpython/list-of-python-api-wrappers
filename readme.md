@@ -322,6 +322,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://sunlightfoundation.com/api/)
 - [Python wrapper for Sunlight Foundation](http://python-sunlight.readthedocs.org/en/latest/)
 
+### [Taiga](https://taiga.io/) - Project management
+- [API Documentation](http://taigaio.github.io/taiga-doc/dist/api.html)
+- [Python wrapper](https://github.com/nephila/python-taiga)
+
 ### [Technorati](http://technorati.com/) - Searching blogs
 - [API Documentation](http://technorati.com/developers/)
 - [Python wrapper for Technorati](http://www.myelin.co.nz/technorati_py/)
