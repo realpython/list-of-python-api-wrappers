@@ -26,6 +26,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://archive.org/help/json.php)
 - [Python wrapper for archive.org](https://pypi.python.org/pypi/internetarchive)
 
+### [Arista EOS](https://www.arista.com/en/products/eos) - Network Operating System
+- [API Documentation](http://aristanetworks.github.io/EosSdk/docs/1.6.0/ref/)
+- [Python wrapper](https://github.com/arista-eosplus/pyeapi)
+
 ### [Balanced](http://www.balancedpayments.com) - Payments for Marketplaces
 - [API Documentation](https://docs.balancedpayments.com/current/api)
 - [Python wrapper for Balanced](https://github.com/balanced/balanced-python)
