@@ -198,6 +198,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://instagram.com/developer/)
 - [Python wrapper for Instagram](https://github.com/Instagram/python-instagram)
 
+### [Investopedia](http://www.investopedia.com/simulator/) - Stock Simulator
+- [API Documentation](http://www.investopedia.com/simulator/)
+- [Python wrapper](https://github.com/kirkthaker/investopedia-trading-api)
+
 ### [iTunes Store](http://www.apple.com/itunes/) - Search engine for iTunes content
 - [API Documentation](https://www.apple.com/itunes/affiliates/resources/documentation/itunes-store-web-service-search-api.html)
 - [Python wrapper for iTunes Store](https://github.com/spaceisstrange/itunespy)
