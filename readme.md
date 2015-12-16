@@ -30,6 +30,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://aristanetworks.github.io/EosSdk/docs/1.6.0/ref/)
 - [Python wrapper](https://github.com/arista-eosplus/pyeapi)
 
+### [ArrayFire](http://arrayfire.com/) - high performance library for parallel computing
+- [API Documentation](http://www.arrayfire.com/docs/index.htm)
+- [Python wrapper](https://github.com/arrayfire/arrayfire-python)
+
 ### [Balanced](http://www.balancedpayments.com) - Payments for Marketplaces
 - [API Documentation](https://docs.balancedpayments.com/current/api)
 - [Python wrapper for Balanced](https://github.com/balanced/balanced-python)
