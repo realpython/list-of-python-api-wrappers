@@ -238,7 +238,7 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://metwit.com/weather-api/)
 - [Python wrapper for Metwit](http://soup.metwit.com/post/45997437810/python-weather-by-metwit)
 
-## [MonkeyLearn](http://www.monkeylearn.com/) - Machine Learning for Text Analysis
+### [MonkeyLearn](http://www.monkeylearn.com/) - Machine Learning for Text Analysis
 - [API Documentation](http://docs.monkeylearn.com/article/api-reference/)
 - [Python wrapper](https://github.com/monkeylearn/monkeylearn-python)
 
@@ -249,6 +249,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 ### [Netflix](http://www.netflix.com/) - On-demand streaming media
 - [API Documentation](http://developer.netflix.com/)
 - [Python wrapper for Netflix](https://github.com/jcopenha/pyflix)
+
+### [Netflix Roulette](http://netflixroulette.net/) - Get a random movie from the Netflix catalog and watch it instantly
+- [API Documentation](http://netflixroulette.net/api/)
+- [Python wrapper](https://github.com/tizz98/netflix_roulette)
 
 ### [OneTimeSecret](https://onetimesecret.com/) - Self-destructing messaging service
 - [API Documentation](https://onetimesecret.com/docs/api)
