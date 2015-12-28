@@ -34,6 +34,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://www.arrayfire.com/docs/index.htm)
 - [Python wrapper](https://github.com/arrayfire/arrayfire-python)
 
+### [Ascribe](https://www.ascribe.io) - Register and License Intellectual Property
+- [API Documentation](http://docs.ascribe.apiary.io)
+- [Python wrapper](https://pypi.python.org/pypi/ascribe/0.0.7.dev1)
+
 ### [Balanced](http://www.balancedpayments.com) - Payments for Marketplaces
 - [API Documentation](https://docs.balancedpayments.com/current/api)
 - [Python wrapper for Balanced](https://github.com/balanced/balanced-python)
