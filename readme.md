@@ -278,10 +278,6 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://developer.photobucket.com/)
 - [Python wrapper for Photobucket](https://github.com/czpython/python-photobucket)
 
-### [Pixoto](http://www.pixoto.com/) - Online Photo sharing
-- [API Documentation](https://github.com/daxeel/pypixoto)
-- [Python wrapper for Pixoto.com](https://github.com/daxeel/pypixoto)
-
 ### [Plot.ly](https://plot.ly/) - Easily analyze data together
 - [API Documentation](https://plot.ly/api/)
 - [Python wrapper for Plot.ly](https://plot.ly/api/python/)
