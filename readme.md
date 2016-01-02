@@ -271,7 +271,7 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [Python wrapper for Pinterest](https://github.com/ironchief/python-pinterest)
 
 ### [Pixoto](http://pixoto.com/) - Online photo sharing platform
-- [API Documentation](https://github.com/daxeel/pypixoto#installation)
+- [API Documentation](https://github.com/daxeel/pypixoto)
 - [Python wrapper for Pixoto](https://github.com/daxeel/pypixoto)
 
 ### [Phaxio](https://www.phaxio.com/) - Faxing for Developers
