@@ -443,6 +443,11 @@ PyPI Page   |
 Last Update |
 Info Date   | 2014/09/07
 
+### [TinyURL](http://www.tinyurl.com) - URL Shortner
+- [API Documentation](https://github.com/daxeel/TinyURL-Python)
+- [Python wrapper](https://github.com/daxeel/TinyURL-Python)
+
+
 ##### [tmdb] Python Package Index
 to          |   click
 ------------|---------------
