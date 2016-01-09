@@ -106,6 +106,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://www.dropbox.com/developers)
 - [Python Wrapper for Dropbox](https://github.com/s-aska/dropbox-api-command)
 
+### [Duktape](http://duktape.org/) - Embeddable JavaScript engine
+- [API Documentation](http://duktape.org/api.html)
+- [Python Wrapper](https://github.com/stefano/pyduktape)
+
 ### [Ebay](http://www.ebay.com/) - Online auction and shopping
 - [API Documentation](http://developer.ebay.com/common/api/)
 - [Python wrapper for eBay API](https://github.com/roopeshvaddepally/python-ebay)
