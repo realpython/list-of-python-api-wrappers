@@ -246,6 +246,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://metwit.com/weather-api/)
 - [Python wrapper for Metwit](http://soup.metwit.com/post/45997437810/python-weather-by-metwit)
 
+### [MLB GameDay](http://gd2.mlb.com/components/game/mlb/) - Real-time MLB data
+- [API Documentation](http://panzarino.me/mlbgame/)
+- [Python wrapper](https://github.com/zachpanz88/mlbgame)
+
 ### [MonkeyLearn](http://www.monkeylearn.com/) - Machine Learning for Text Analysis
 - [API Documentation](http://docs.monkeylearn.com/article/api-reference/)
 - [Python wrapper](https://github.com/monkeylearn/monkeylearn-python)
