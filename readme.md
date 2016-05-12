@@ -294,6 +294,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://plot.ly/api/)
 - [Python wrapper for Plot.ly](https://plot.ly/api/python/)
 
+### [Polar Devices](http://www.polar.com) - Watches and devices
+- [API Documentation](http://developer.polar.com/wiki/AccessLink)
+- [Python wrapper](https://github.com/rsc-dev/loophole)
+
 ### [Rackspace](http://www.rackspace.com/) - Open cloud company
 - [API Documentation](http://docs.rackspace.com/sdks/guide/content/python.html)
 - [Python wrapper for the Rackspace Cloud](https://github.com/rackspace/pyrax)
