@@ -381,6 +381,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://api.temp-mail.ru/)
 - [Python wrapper for Temp mail](https://github.com/saippuakauppias/temp-mail)
 
+### [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) - OCR Engine
+- [API Documentation](http://tesseract-ocr.github.io/)
+- [Python wrapper](https://github.com/sirfz/tesserocr)
+
 ### [The Echo Nest](http://echonest.com) - Music services
 - [API Documentation](http://developer.echonest.com/client_libraries.html)
 - [Python Wrapper for Echo Nest](https://github.com/echonest/pyechonest)
