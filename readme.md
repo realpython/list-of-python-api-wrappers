@@ -381,6 +381,14 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://technorati.com/developers/)
 - [Python wrapper for Technorati](http://www.myelin.co.nz/technorati_py/)
 
+### [Telegram](https://telegram.org/) - Mobile and desktop messaging app
+- [API Documentation](https://core.telegram.org/bots/api)
+- [Python wrapper](https://github.com/python-telegram-bot/python-telegram-bot)
+
+### [Temp Mail](https://temp-mail.ru) - Anonymous emails
+- [API Documentation](http://api.temp-mail.ru/)
+- [Python wrapper for Temp mail](https://github.com/saippuakauppias/temp-mail)
+
 ### [Temp Mail](https://temp-mail.ru) - Anonymous emails
 - [API Documentation](http://api.temp-mail.ru/)
 - [Python wrapper for Temp mail](https://github.com/saippuakauppias/temp-mail)
