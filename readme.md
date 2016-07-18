@@ -302,6 +302,9 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://plot.ly/api/)
 - [Python wrapper for Plot.ly](https://plot.ly/api/python/)
 
+### [Pokémon GO API](https://github.com/Mila432/Pokemon_Go_API) - Pokemon!
+- [Python wrapper](https://github.com/Mila432/Pokemon_Go_API)
+
 ### [Polar Devices](http://www.polar.com) - Watches and devices
 - [API Documentation](http://developer.polar.com/wiki/AccessLink)
 - [Python wrapper](https://github.com/rsc-dev/loophole)
