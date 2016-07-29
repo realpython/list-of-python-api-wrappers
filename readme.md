@@ -42,6 +42,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://developer.authorize.net/api/)
 - [Python wrapper](http://authorize-sauce.readthedocs.io/en/latest/)
 
+### [Azure](https://azure.microsoft.com/) - Cloud computing platform
+- [API Documentation](https://azure.microsoft.com/en-us/develop/python/)
+- [Python wrapper](https://github.com/Azure/azure-sdk-for-python)
+
 ### [Balanced](http://www.balancedpayments.com) - Payments for Marketplaces
 - [API Documentation](https://docs.balancedpayments.com/current/api)
 - [Python wrapper for Balanced](https://github.com/balanced/balanced-python)
