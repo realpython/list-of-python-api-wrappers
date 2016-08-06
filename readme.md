@@ -108,7 +108,7 @@ Hi. Below you will find a list of web services along with links to their docs an
 
 ### [Dropbox](http://www.dropbox.com) - File hosting service
 - [API Documentation](https://www.dropbox.com/developers)
-- [Python Wrapper for Dropbox](https://github.com/s-aska/dropbox-api-command)
+- [Python Wrapper for Dropbox](https://github.com/dropbox/dropbox-sdk-python)
 
 ### [Duktape](http://duktape.org/) - Embeddable JavaScript engine
 - [API Documentation](http://duktape.org/api.html)
