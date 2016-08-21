@@ -22,6 +22,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://aws.amazon.com/documentation/swf/)
 - [Python wrapper for Amazon Simple Workflow](http://github.com/xethorn/garcon)
 
+### [American Fuzzy Lop %28AFL%29](http://lcamtuf.coredump.cx/afl/) - Fuzzer that employs genetic algorithms in order to efficiently increase code coverage of the test cases
+- [API Documentation](http://lcamtuf.coredump.cx/afl/)
+- [Python wrapper](https://github.com/shellphish/fuzzer)
+
 ### [Archive.org](http://archive.org/) - Internet Archive
 - [API Documentation](http://archive.org/help/json.php)
 - [Python wrapper for archive.org](https://pypi.python.org/pypi/internetarchive)
