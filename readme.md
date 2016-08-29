@@ -102,6 +102,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://coinbase.com/api/doc.html)
 - [Python wrapper for Coinbase](https://github.com/sibblegp/coinbase_python)
 
+### [Craigslist](http://www.craigslist.org/) - Classified advertisements
+- [API Documentation](https://github.com/juliomalegria/python-craigslist)
+- [Python wrapper](https://github.com/juliomalegria/python-craigslist)
+
 ### [Delicious](http://www.delicious.com) - Social bookmarking service
 - [API Documentation](https://delicious.com/help/api)
 - [Python wrapper for Del.icio.us](http://www.xml.com/pub/a/2004/11/10/delicious.html)
