@@ -138,6 +138,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://dev.evernote.com/doc/)
 - [Python Wrapper for Evernote](https://github.com/evernote/evernote-sdk-python)
 
+### [Expedia](https://www.expedia.com/) - A travel website
+- [API Documentation](http://developer.expedia.com/directory)
+- [Python Wrapper for Expedia](https://github.com/NimitS1/expediaRequester)
+
 ### [Facebook](http://www.facebook.com/) - Social networking service
 - [API Documentation](https://developers.facebook.com/)
 - [Python wrapper for Facebook](https://github.com/sciyoshi/pyfacebook/)
