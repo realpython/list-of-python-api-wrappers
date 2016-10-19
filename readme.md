@@ -294,6 +294,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://onetimesecret.com/docs/api)
 - [Python wrapper for OneTimeSecret](https://github.com/utter-step/py_onetimesecret)
 
+### [OpenWeatherMap](http://openweathermap.org/) - Weather Service
+- [API Documentation](http://openweathermap.org/api)
+- [Python wrapper for OpenWeatherMap](https://github.com/csparpa/pyowm)
+
 ### [PagerDuty](http://pagerduty.com/) - IT alert monitoring
 - [API Documentation](http://developer.pagerduty.com/documentation/integration/events)
 - [Python Wrapper for PagerDuty](https://github.com/dropbox/pygerduty)
