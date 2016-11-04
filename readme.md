@@ -250,6 +250,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://www.last.fm/api)
 - [Python wrapper for Last.fm](http://code.google.com/p/python-lastfm/)
 
+### [LightGBM](https://github.com/Microsoft/LightGBM) - gradient boosting framework by Microsoft
+- [API Documentation](https://github.com/Microsoft/LightGBM)
+- [Python wrapper](https://github.com/ArdalanM/pyLightGBM)
+
 ### [Linkedin](http://linkedin.com/) - Professional Social Network
 - [API Documentation](http://developer.linkedin.com/apis)
 - [Python wrapper for Linkedin](https://github.com/ozgur/python-linkedin)
