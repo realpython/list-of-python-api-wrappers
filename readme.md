@@ -294,6 +294,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://netflixroulette.net/api/)
 - [Python wrapper](https://github.com/tizz98/netflix_roulette)
 
+### [New York Times Archive API](https://developer.nytimes.com/archive_api.json) - The Archive API provides JSON lists of articles by month
+- [API Documentation](https://developer.nytimes.com/archive_api.json)
+- [Python wrapper](https://github.com/davidcox143/nytimesarchive)
+
 ### [OneTimeSecret](https://onetimesecret.com/) - Self-destructing messaging service
 - [API Documentation](https://onetimesecret.com/docs/api)
 - [Python wrapper for OneTimeSecret](https://github.com/utter-step/py_onetimesecret)
