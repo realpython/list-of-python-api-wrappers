@@ -118,6 +118,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://disqus.com/api/docs/)
 - [Python Wrapper for Disqus](https://github.com/disqus/disqus-python)
 
+### [Docker](https://www.docker.com/) - an open platform for distributed applications for developers and sysadmins
+- [API Documentation](https://docker-py.readthedocs.io/en/stable/)
+- [Python Wrapper](https://github.com/docker/docker-py)
+
 ### [Dropbox](http://www.dropbox.com) - File hosting service
 - [API Documentation](https://www.dropbox.com/developers)
 - [Python Wrapper for Dropbox](https://github.com/dropbox/dropbox-sdk-python)
