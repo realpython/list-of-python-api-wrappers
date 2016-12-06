@@ -723,6 +723,10 @@ Info Date   | 2014/12/20
 - [API Documentation](http://developer.vimeo.com/apis/)
 - [Python wrapper for Vimeo](https://github.com/rkumarnirmal/python-vimeo)
 
+### [Walmart Open API](https://github.com/caroso1222/wapy) - access to the Walmart product catalog
+- [API Documentation](https://developer.walmartlabs.com/)
+- [Python wrapper](https://github.com/caroso1222/wapy)
+
 ### [World Bank](http://data.worldbank.org/indicator) - Collection of development indicators
 - [API Documentation](http://wbpy.readthedocs.org/en/latest/)
 - [Python wrapper for World Bank](https://github.com/mattduck/wbpy)
