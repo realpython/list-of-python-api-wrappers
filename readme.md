@@ -242,6 +242,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://www.investopedia.com/simulator/)
 - [Python wrapper](https://github.com/kirkthaker/investopedia-trading-api)
 
+### [IP Street](http://www.ipstreet.com/) - patent data and analytics algorithms as a service
+- [API Documentation](http://docs.ipstreet.com/)
+- [Python wrapper](https://github.com/IPStreet/PythonSDK)
+
 ### [iTunes Store](http://www.apple.com/itunes/) - Search engine for iTunes content
 - [API Documentation](https://www.apple.com/itunes/affiliates/resources/documentation/itunes-store-web-service-search-api.html)
 - [Python wrapper for iTunes Store](https://github.com/spaceisstrange/itunespy)
