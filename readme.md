@@ -365,6 +365,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://www.salesforce.com/us/developer/docs/api/index.htm)
 - [Python wrapper for Salesforce](https://pypi.python.org/pypi/beatbox)
 
+### [Scaleway](https://scaleway.com) - Cloud computing platform
+- [API Documentation](https://developer.scaleway.com)
+- [Python wrapper for Scaleway](https://github.com/scaleway/python-scaleway)
+
 ### [Scrapinghub](http://scrapinghub.com/) - Scraping services
 - [API Documentation](http://doc.scrapinghub.com/api.html)
 - [Python wrapper for Scrapinghub](https://github.com/scrapinghub/python-scrapinghub)
