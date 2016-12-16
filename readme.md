@@ -727,6 +727,10 @@ Info Date   | 2014/12/20
 - [API Documentation](http://www.urbandictionary.com)
 - [Python wrapper for Urban Dictionary](https://github.com/novel/py-urbandict)
 
+### [Vault](https://www.vaultproject.io/) - A tool for managing secrets.
+- [API Documentation](https://www.vaultproject.io/docs/http/index.html)
+- [Python wrapper for Vault](https://github.com/ianunruh/hvac)
+
 ### [Vimeo](https://vimeo.com/) - Video-sharing website
 - [API Documentation](http://developer.vimeo.com/apis/)
 - [Python wrapper for Vimeo](https://github.com/rkumarnirmal/python-vimeo)
