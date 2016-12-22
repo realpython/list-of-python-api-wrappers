@@ -282,6 +282,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://mega.co.nz/#developers)
 - [Python wrapper for Mega](https://github.com/juanriaza/python-mega)
 
+### [Mercury](https://mercury.postlight.com/web-parser/) - take any web article and return only the relevant content
+- [API Documentation](https://mercury.postlight.com/web-parser/)
+- [Python wrapper](https://github.com/kennethreitz/mercury-parser)
+
 ### [Metwit](http://metwit.com/) - Social and crowdsourced weather
 - [API Documentation](http://metwit.com/weather-api/)
 - [Python wrapper for Metwit](http://soup.metwit.com/post/45997437810/python-weather-by-metwit)
