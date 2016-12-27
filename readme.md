@@ -122,6 +122,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://docker-py.readthedocs.io/en/stable/)
 - [Python Wrapper](https://github.com/docker/docker-py)
 
+### [Dribbble](https://dribbble.com/) - community for showcasing user-made artwork
+- [API Documentation](http://developer.dribbble.com/)
+- [Python Wrapper](https://github.com/Zabanaa/jabbbar)
+
 ### [Dropbox](http://www.dropbox.com) - File hosting service
 - [API Documentation](https://www.dropbox.com/developers)
 - [Python Wrapper for Dropbox](https://github.com/dropbox/dropbox-sdk-python)
