@@ -200,7 +200,7 @@ Hi. Below you will find a list of web services along with links to their docs an
 
 ### [Google spreadsheet](https://docs.google.com/spreadsheet/) - Online Spreadsheets
 - [API Documentation](https://developers.google.com/google-apps/spreadsheets/)
-- [Python wrapper for Google Spreadsheet](https://github.com/yoavaviram/python-google-spreadsheet)
+- [Python wrapper for Google Spreadsheet](https://github.com/burnash/gspread)
 
 ### [Google Translate](https://translate.google.com/) - Translation Service
 - [API Documentation](https://cloud.google.com/translate/docs)
