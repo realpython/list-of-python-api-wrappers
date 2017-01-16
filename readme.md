@@ -182,6 +182,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://developer.github.com/)
 - [Python wrapper for GitHub](http://github3py.readthedocs.org/en/latest/)
 
+### [GitLab](https://gitlab.com/) - Online and selfhosted open source project hosting
+- [API Documentation](https://docs.gitlab.com/ce/api/)
+- [Python wrapper for Gitlab](https://github.com/gpocentek/python-gitlab)
+
 ### [Google Charts](https://developers.google.com/chart/) - Interactive charts for browsers and mobile devices.
 - [API Documentation](https://developers.google.com/chart/interactive/docs/)
 - [Python wrapper](https://github.com/Dfenestrator/GooPyCharts)
