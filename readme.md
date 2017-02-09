@@ -14,6 +14,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://docs.aws.amazon.com/AWSECommerceService/latest/DG/Welcome.html)
 - [Python wrapper for Amazon.com](https://github.com/yoavaviram/python-amazon-simple-product-api)
 
+### [Amazon S3](https://aws.amazon.com/s3/) - Cloud storage
+- [API Documentation](https://github.com/kennethreitz/bucketstore)
+- [Python wrapper](https://aws.amazon.com/documentation/s3/)
+
 ### [AWS](http://aws.amazon.com) - Cloud computing platform
 - [API Documentation](http://aws.amazon.com/documentation/)
 - [Python wrapper for AWS](https://github.com/boto/boto3)
