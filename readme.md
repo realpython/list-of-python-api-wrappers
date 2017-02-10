@@ -164,6 +164,7 @@ Hi. Below you will find a list of web services along with links to their docs an
 
 ### [Flickr](http://www.flickr.com) - Image and Video hosting
 - [API Documentation](http://www.flickr.com/services/api/)
+- [Python wrapper for Flickr](https://github.com/michaelhelmick/python-flickr)
 - [Python wrapper for Flickr](http://stuvel.eu/media/flickrapi-docs/documentation/)
 
 ### [Forecast](http://forecast.io/) - Weather forecasting
@@ -281,6 +282,7 @@ Hi. Below you will find a list of web services along with links to their docs an
 ### [Linkedin](http://linkedin.com/) - Professional Social Network
 - [API Documentation](http://developer.linkedin.com/apis)
 - [Python wrapper for Linkedin](https://github.com/ozgur/python-linkedin)
+- [Python wrapper for Linkedin](https://github.com/michaelhelmick/linkedin)
 
 ### [Loggly](http://loggly.com/) - Cloud-based logging
 - [API Documentation](http://loggly.com/support/advanced/extending-loggly)
@@ -602,6 +604,7 @@ Info Date   | 2014/09/07
 ### [Tumblr](http://www.tumblr.com) - Microblogging platform
 - [API Documentation](http://www.tumblr.com/docs/en/api/v2)
 - [Python wrapper for Tumblr API](https://github.com/tumblr/pytumblr)
+- [Python wrapper for Tumblr API](https://github.com/michaelhelmick/python-tumblpy)
 
 ### [TheTVDB.com](http://thetvdb.com) - Community driven database of television shows
 
@@ -725,6 +728,7 @@ Info Date   | 2014/12/20
 ### [Twitter](http://twitter.com/) - Online microblogging service
 - [API Documentation](https://dev.twitter.com/docs/twitter-libraries)
 - [Python wrapper for Twitter](http://code.google.com/p/python-twitter/) - python-twitter
+- [Python wrapper for Twitter](https://github.com/ryanmcgrath/twython) - Twython
 - [Python wrapper for Twitter](https://github.com/inueni/birdy) - birdy
 
 ### [Uber](https://www.uber.com/) - Taxi, private car or rideshare service
