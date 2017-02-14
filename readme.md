@@ -438,6 +438,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://sunlightfoundation.com/api/)
 - [Python wrapper for Sunlight Foundation](http://python-sunlight.readthedocs.org/en/latest/)
 
+### [Syncthing](https://syncthing.net/) - Decentralized data sync
+- [API Documentation](https://docs.syncthing.net/dev/rest.html)
+- [Python wrapper for Syncthing](https://github.com/blakev/python-syncthing)
+
 ### [Taiga](https://taiga.io/) - Project management
 - [API Documentation](http://taigaio.github.io/taiga-doc/dist/api.html)
 - [Python wrapper](https://github.com/nephila/python-taiga)
