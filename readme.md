@@ -731,7 +731,7 @@ Info Date   | 2014/12/20
 
 ### [Twitter](http://twitter.com/) - Online microblogging service
 - [API Documentation](https://dev.twitter.com/docs/twitter-libraries)
-- [Python wrapper #1](http://code.google.com/p/python-twitter/) - python-twitter
+- [Python wrapper #1](https://github.com/bear/python-twitter/) - python-twitter
 - [Python wrapper #2](https://github.com/ryanmcgrath/twython) - Twython
 - [Python wrapper #3](https://github.com/inueni/birdy) - birdy
 
