@@ -183,6 +183,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://www.fullcontact.com/developer/)
 - [Python wrapper for FullContact](https://github.com/garbados/fullcontact.py)
 
+### [Geocodio](https://geocod.io/) - Ridiculously affordable geocoding
+- [API Documentation](https://geocod.io/docs/)
+- [Python wrapper for Geocodio](https://github.com/bennylope/pygeocodio)
+
 ### [Geopy](http://code.google.com/p/geopy/wiki/GettingStarted) - Geocoding for Python
 - [API Documentation](http://code.google.com/p/geopy/)
 - [Python wrapper for Geopy](http://code.google.com/p/geopy/)
