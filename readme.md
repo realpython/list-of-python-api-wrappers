@@ -120,7 +120,7 @@ Hi. Below you will find a list of web services along with links to their docs an
 
 ### [Discourse](http://www.discourse.org/) - Civilized discussion
 - [API Documentation](https://meta.discourse.org/t/discourse-api-documentation/22706)
-- [Python wrapper for Discogs](https://github.com/bennylope/pydiscourse)
+- [Python wrapper](https://github.com/bennylope/pydiscourse)
 
 ### [Disqus](http://www.disqus.com/) - Blog comment hosting service
 - [API Documentation](http://disqus.com/api/docs/)
