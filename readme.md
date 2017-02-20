@@ -118,6 +118,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://www.discogs.com/developers/)
 - [Python wrapper for Discogs](https://github.com/discogs/discogs_client)
 
+### [Discourse](http://www.discourse.org/) - Civilized discussion
+- [API Documentation](https://meta.discourse.org/t/discourse-api-documentation/22706)
+- [Python wrapper](https://github.com/bennylope/pydiscourse)
+
 ### [Disqus](http://www.disqus.com/) - Blog comment hosting service
 - [API Documentation](http://disqus.com/api/docs/)
 - [Python Wrapper for Disqus](https://github.com/disqus/disqus-python)
