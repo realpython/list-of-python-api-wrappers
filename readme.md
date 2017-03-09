@@ -279,6 +279,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://jira-python.readthedocs.org/en/latest/)
 - [Python wrapper for Jira](https://bitbucket.org/bspeakmon/jira-python)
 
+### [Kite Connect](https://kite.trade/) - Stock trading APIs
+- [API Documentation](https://kite.trade/docs/connect/v1/)
+- [Python wrapper for Kite Connect](https://github.com/rainmattertech/pykiteconnect)
+
 ### [Last.fm](http://www.last.fm) - Online music
 - [API Documentation](http://www.last.fm/api)
 - [Python wrapper for Last.fm](http://code.google.com/p/python-lastfm/)
