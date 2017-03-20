@@ -340,9 +340,9 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://developer.nytimes.com/archive_api.json)
 - [Python wrapper](https://github.com/davidcox143/nytimesarchive)
 
-### [News API](https://newsapi.org/) - JSON metadata for the headlines currently published on a range of news sources and blogs
+### [News API](https://newsapi.org/) - JSON API for live news and blog headlines
 - [API Documentation](https://newsapi.org/#documentation)
-- [Python wrapper for News API](https://github.com/SlapBot/newsapi)
+- [Python wrapper](https://github.com/SlapBot/newsapi)
 
 ### [OneTimeSecret](https://onetimesecret.com/) - Self-destructing messaging service
 - [API Documentation](https://onetimesecret.com/docs/api)
