@@ -300,6 +300,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://loggly.com/support/advanced/extending-loggly)
 - [Python wrapper for Loggly](https://github.com/loggly/hoover)
 
+### [Medium](https://medium.com/) - blog publishing platform
+- [API Documentation](https://github.com/enginebai/PyMedium)
+- [Python wrapper](https://github.com/enginebai/PyMedium)
+
 ### [Meetup](http://www.meetup.com/) - Offline group meetings
 - [API Documentation](http://www.meetup.com/meetup_api/)
 - [Python wrapper for Meetup Web](https://github.com/meetup/python-api-client)
