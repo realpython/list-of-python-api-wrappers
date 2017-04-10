@@ -407,6 +407,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://www.salesforce.com/us/developer/docs/api/index.htm)
 - [Python wrapper for Salesforce](https://pypi.python.org/pypi/beatbox)
 
+### [SAS](https://www.sas.com) - business intelligence software
+- [API Documentation](https://sassoftware.github.io/saspy/overview.html)
+- [Python Wrapper](https://github.com/sassoftware/saspy)
+
 ### [Scaleway](https://scaleway.com) - Cloud computing platform
 - [API Documentation](https://developer.scaleway.com)
 - [Python wrapper for Scaleway](https://github.com/scaleway/python-scaleway)
