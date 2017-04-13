@@ -434,6 +434,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://www.slideshare.net/developers/documentation)
 - [Python wrapper for slideshare](http://code.google.com/p/pyslideshare/)
 
+### [SmartFile](https://smartfile.com/) - File management service
+- [API Documentation](http://app.smartfile.com/api/)
+- [Python wrapper for SmartFile](https://github.com/smartfile/client-python)
+
 ### [Socrata Open Data API](http://www.socrata.com/) - Data discovery for government data
 - [API Documentation](http://dev.socrata.com/)
 - [Python wrapper for Socrata Open Data API](https://github.com/xmunoz/sodapy)
