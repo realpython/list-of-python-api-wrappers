@@ -94,6 +94,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://www.carriots.com/documentation/api)
 - [Python wrapper for Carriots](https://github.com/sdeancos/clicarriots)
 
+### [Challonge](https://challonge.com) - Tournament Brackets
+- [API Documentation](https://challonge.com/api)
+- [Python wrapper for Challonge](https://github.com/ZEDGR/pychal)
+
 ### [Chargify](http://chargify.com) - Recurring billing application
 - [API Documentation](http://docs.chargify.com/api-introduction)
 - [Python wrapper for Chargify](https://github.com/hindsightlabs/chargify-python)
