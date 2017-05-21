@@ -547,6 +547,9 @@ PyPI Page   |
 Py Support  |
 Last Update |
 Info Date   | 2014/10/17
+###cricket-score api
+https://market.mashape.com/dev132/cricket-live-scores
+
 
 **Observations and notes:**
 
