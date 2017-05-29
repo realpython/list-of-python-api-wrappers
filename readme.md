@@ -462,6 +462,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://api.stackexchange.com/docs)
 - [Python wrapper for Stack Exchange](https://pypi.python.org/pypi/stackpy)
 
+### [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) - simple API for text processing tasks
+- [API Documentation](https://stanfordnlp.github.io/CoreNLP/)
+- [Python wrapper](https://github.com/Lynten/stanford-corenlp)
+
 ### [Stripe](https://stripe.com/) - Payments for developers
 - [API Documentation](https://stripe.com/docs/api/python)
 - [Python wrapper for Stripe](https://github.com/stripe/stripe-python)
