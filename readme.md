@@ -207,6 +207,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://developers.google.com/chart/interactive/docs/)
 - [Python wrapper](https://github.com/Dfenestrator/GooPyCharts)
 
+### [Google Cloud Functions](https://cloud.google.com/functions/) - Serverless environment to build and connect cloud services
+- [API Documentation](https://cloud.google.com/functions/docs/apis)
+- [Python wrapper](https://github.com/MartinSahlen/cloud-functions-python)
+
 ### [Google Maps](http://maps.google.com/) - Web mapping service
 - [API Documentation](https://developers.google.com/maps/)
 - [Python wrapper for Google Maps](http://code.google.com/p/pymaps/)
@@ -219,7 +223,7 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://developers.google.com/sheets/)
 - [Python wrapper](https://github.com/nithinmurali/pygsheets)
 
-### [Google spreadsheet](https://docs.google.com/spreadsheet/) - Online Spreadsheets
+### [Google Spreadsheet](https://docs.google.com/spreadsheet/) - Online Spreadsheets
 - [API Documentation](https://developers.google.com/google-apps/spreadsheets/)
 - [Python wrapper for Google Spreadsheet](https://github.com/burnash/gspread)
 
