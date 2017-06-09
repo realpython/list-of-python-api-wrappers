@@ -336,6 +336,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://docs.monkeylearn.com/article/api-reference/)
 - [Python wrapper](https://github.com/monkeylearn/monkeylearn-python)
 
+### [Musixmatch](https://www.musixmatch.com/) - Explore the world's largest catalog of song lyrics and translations
+- [API Documentation](https://developer.musixmatch.com/)
+- [Python wrapper for Musixmatch](https://github.com/hudsonbrendon/python-musixmatch)
+
 ### [NASA](http://www.nasa.gov/) - National Aeronautics and Space Administration
 - [API Documentation](https://data.nasa.gov/developer)
 - [Python wrapper for NASA](https://github.com/emirozer/bowshock)
