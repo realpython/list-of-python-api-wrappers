@@ -807,6 +807,11 @@ Info Date   | 2014/12/20
 - [API Documentation](http://developer.vimeo.com/apis/)
 - [Python wrapper for Vimeo](https://github.com/rkumarnirmal/python-vimeo)
 
+### [VK](http://vk.com/) - Social networking service
+- [API Documentation](https://vk.com/dev/methods)
+- [Python wrapper #1](https://github.com/dimka665/vk)
+- [Python wrapper #2](https://github.com/python273/vk_api)
+
 ### [Walmart Open API](https://github.com/caroso1222/wapy) - access to the Walmart product catalog
 - [API Documentation](https://developer.walmartlabs.com/)
 - [Python wrapper](https://github.com/caroso1222/wapy)
