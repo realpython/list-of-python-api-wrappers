@@ -219,6 +219,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://unofficial-google-music-api.readthedocs.org/en/latest/)
 - [Python wrapper for Google Music](https://github.com/simon-weber/Unofficial-Google-Music-API)
 
+### [Google Search](https://www.google.com/) - Unofficial API for Google Search
+- [API Documentation](https://github.com/aviaryan/python-gsearch)
+- [Python wrapper](https://github.com/aviaryan/python-gsearch)
+
 ### [Google Sheets](https://www.google.com/sheets/about/) - create and edit spreadsheets online, for free.
 - [API Documentation](https://developers.google.com/sheets/)
 - [Python wrapper](https://github.com/nithinmurali/pygsheets)
