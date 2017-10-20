@@ -824,6 +824,10 @@ Info Date   | 2014/12/20
 - [API Documentation](https://developer.walmartlabs.com/)
 - [Python wrapper](https://github.com/caroso1222/wapy)
 
+### [WhatsApp](https://www.whatsapp.com/) -  - Mobile and desktop messaging app
+- ~~[API Documentation](#)~~
+- [Python wrapper](https://github.com/tgalal/yowsup)
+
 ### [World Bank](http://data.worldbank.org/indicator) - Collection of development indicators
 - [API Documentation](http://wbpy.readthedocs.org/en/latest/)
 - [Python wrapper for World Bank](https://github.com/mattduck/wbpy)
