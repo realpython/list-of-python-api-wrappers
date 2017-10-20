@@ -828,14 +828,6 @@ Info Date   | 2014/12/20
 - ~~[API Documentation](#)~~
 - [Python wrapper](https://github.com/tgalal/yowsup)
 
-### [World Bank](http://data.worldbank.org/indicator) - Collection of development indicators
-- [API Documentation](http://wbpy.readthedocs.org/en/latest/)
-- [Python wrapper for World Bank](https://github.com/mattduck/wbpy)
-
-### [World Weather](http://www.worldweatheronline.com/) - Weather Service
-- [API Documentation](http://developer.worldweatheronline.com)
-- [Python wrapper for World Weather](https://github.com/WorldWeatherOnline/pywwo)
-
 ### [Wikipedia](http://www.wikipedia.org/) - Wikipedia
 - [API Documentation](http://www.mediawiki.org/wiki/API)
 - [Python wrapper for Wikipedia](http://github.com/goldsmith/Wikipedia)
@@ -843,6 +835,14 @@ Info Date   | 2014/12/20
 ### [Windows Azure](http://www.windowsazure.com/) - Microsoft's Cloud Platform
 - [API Documentation](http://www.windowsazure.com/en-us/develop/python/)
 - [Python wrapper for Windows Azure](https://github.com/WindowsAzure/azure-sdk-for-python)
+
+### [World Bank](http://data.worldbank.org/indicator) - Collection of development indicators
+- [API Documentation](http://wbpy.readthedocs.org/en/latest/)
+- [Python wrapper for World Bank](https://github.com/mattduck/wbpy)
+
+### [World Weather](http://www.worldweatheronline.com/) - Weather Service
+- [API Documentation](http://developer.worldweatheronline.com)
+- [Python wrapper for World Weather](https://github.com/WorldWeatherOnline/pywwo)
 
 ### [WooCommerce](http://www.woothemes.com/woocommerce/) - Ecommerce
 - [API Documentation](http://docs.woothemes.com/document/woocommerce-rest-api/)
