@@ -786,6 +786,7 @@ Info Date   | 2014/12/20
 - [Python wrapper #1](https://github.com/bear/python-twitter/) - python-twitter
 - [Python wrapper #2](https://github.com/ryanmcgrath/twython) - Twython
 - [Python wrapper #3](https://github.com/inueni/birdy) - birdy
+- [Python wrapper #4](https://github.com/tweepy/tweepy) - tweepy
 
 ### [Uber](https://www.uber.com/) - Taxi, private car or rideshare service
 - [API Documentation](https://developer.uber.com/v1/endpoints/)
