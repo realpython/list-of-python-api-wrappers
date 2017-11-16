@@ -42,6 +42,11 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://aristanetworks.github.io/EosSdk/docs/1.6.0/ref/)
 - [Python wrapper](https://github.com/arista-eosplus/pyeapi)
 
+### [ARK](https://ark.io/) - Blockchain Solutions
+- [API Documentation](https://github.com/Highjhacker/pythark)
+- [Python wrapper](https://github.com/Highjhacker/pythark)
+- [Blog Post](https://blog.ark.io/pythark-python-api-wrapper-for-ark-f90d632a5a0e)
+
 ### [ArrayFire](http://arrayfire.com/) - high performance library for parallel computing
 - [API Documentation](http://www.arrayfire.com/docs/index.htm)
 - [Python wrapper](https://github.com/arrayfire/arrayfire-python)
