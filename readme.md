@@ -297,8 +297,8 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [Python wrapper for iTunes Store](https://github.com/spaceisstrange/itunespy)
 
 ### [Jira](https://www.atlassian.com/software/jira) - Issue tracking product
-- [API Documentation](http://jira-python.readthedocs.org/en/latest/)
-- [Python wrapper for Jira](https://bitbucket.org/bspeakmon/jira-python)
+- [API Documentation](http://jira.readthedocs.io/en/latest/)
+- [Python wrapper for Jira](https://github.com/pycontribs/jira)
 
 ### [Kite Connect](https://kite.trade/) - Stock trading APIs
 - [API Documentation](https://kite.trade/docs/connect/v1/)
