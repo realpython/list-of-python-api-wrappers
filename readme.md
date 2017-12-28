@@ -836,7 +836,8 @@ Info Date   | 2014/12/20
 
 ### [Wikipedia](http://www.wikipedia.org/) - Wikipedia
 - [API Documentation](http://www.mediawiki.org/wiki/API)
-- [Python wrapper for Wikipedia](http://github.com/goldsmith/Wikipedia)
+- [Python wrapper 1](http://github.com/goldsmith/Wikipedia)
+- [Python wrapper 2](https://github.com/martin-majlis/Wikipedia-API/)
 
 ### [Windows Azure](http://www.windowsazure.com/) - Microsoft's Cloud Platform
 - [API Documentation](http://www.windowsazure.com/en-us/develop/python/)
