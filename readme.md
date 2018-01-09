@@ -424,10 +424,6 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://developer.rottentomatoes.com/)
 - [Python wrapper for Rotten Tomatoes](https://github.com/zachwill/rottentomatoes)
 
-### [Robinhood](https://www.robinhood.com/) - Free stock trading
-- [API Documentation](https://support.robinhood.com/hc/en-us/articles/203585145-Robinhood-API)
-- [Python wrapper for Robinhood](https://github.com/benkroop/robinhood)
-
 ### [Salesforce](http://www.salesforce.com/) - Cloud computing company (CRM)
 - [API Documentation](http://www.salesforce.com/us/developer/docs/api/index.htm)
 - [Python wrapper for Salesforce](https://pypi.python.org/pypi/beatbox)
