@@ -119,6 +119,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://coinbase.com/api/doc.html)
 - [Python wrapper for Coinbase](https://github.com/sibblegp/coinbase_python)
 
+### [CoinPayments](https://www.coinpayments.net/) - checkout system for cryptocurrencies
+- [API Documentation](https://www.coinpayments.net/apidoc)
+- [Python wrapper](https://github.com/DogFive/pyCoinPayments)
+
 ### [Craigslist](http://www.craigslist.org/) - Classified advertisements
 - [API Documentation](https://github.com/juliomalegria/python-craigslist)
 - [Python wrapper](https://github.com/juliomalegria/python-craigslist)
