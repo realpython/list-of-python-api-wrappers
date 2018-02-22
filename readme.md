@@ -801,6 +801,10 @@ Info Date   | 2014/12/20
 - [API Documentation](https://www.udacity.com/catalog-api)
 - [Python wrapper for Udacity](https://github.com/tylucaskelley/udacity-api-python)
 
+### [Udemy](https://www.udemy.com) - Online University
+- [API Documentation](https://www.udemy.com/developers/)
+- [Python wrapper for Udemy](https://github.com/hudsonbrendon/pyudemy)
+
 ### [Unirest](http://unirest.io/) - Set of lightweight HTTP libraries
 - [API Documentation](http://unirest.io/#python)
 - [Python wrapper for Unirest](https://github.com/Mashape/unirest-python)
