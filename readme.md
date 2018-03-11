@@ -268,6 +268,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://www.hipchat.com/docs/api)
 - [Python wrapper for HipChat](https://github.com/dobarkod/hipchat-api)
 
+### [IEX](https://iextrading.com/) - Real-time and historical stock prices
+- [API Documentation](https://iextrading.com/developer/docs)
+- [Python wrapper for IEX](https://github.com/addisonlynch/iexfinance)
+
 ### [iFixit](http://www.ifixit.com/) - The free repair manual
 - [API Documentation](https://www.ifixit.com/api/2.0/doc)
 - [Python wrapper for iFixit](https://github.com/xiongchiamiov/pyfixit)
