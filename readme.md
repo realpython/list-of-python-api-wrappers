@@ -248,6 +248,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://cloud.google.com/translate/docs)
 - [Python wrapper for Google Translate](http://py-googletrans.readthedocs.org/en/latest/googletrans.html)
 
+### [GoPro](https://gopro.com) - cameras
+- [API Documentation](https://github.com/konradit/gopro-py-api)
+- [Python wrapper](https://github.com/konradit/gopro-py-api)
+
 ### [Hacker News](https://news.ycombinator.com/) - Social News
 - [API Documentation](https://github.com/HackerNews/API)
 - [Python wrapper for Hacker News](https://github.com/avinassh/haxor/)
