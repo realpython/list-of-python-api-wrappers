@@ -428,7 +428,7 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://docs.rackspace.com/sdks/guide/content/python.html)
 - [Python wrapper for the Rackspace Cloud](https://github.com/rackspace/pyrax)
 
-### [Reddit](http://www.reddit.com/) - Search engine for blogs
+### [Reddit](http://www.reddit.com/) - Social news aggregation and discussion
 - [API Documentation](http://www.reddit.com/dev/api)
 - [Python wrapper for Reddit](https://github.com/praw-dev/praw/)
 
