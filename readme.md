@@ -409,6 +409,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://www.phaxio.com/docs)
 - [Python wrapper for Phaxio](https://github.com/phaxio)
 
+### [Phish.AI](https://www.phish.ai/) - Detect zero-day phishing websites
+- [API Documentation](https://app.phish.ai/#/documentation)
+- [Python wrapper](https://github.com/phishai/phish-ai-api)
+
 ### [Photobucket](http://photobucket.com/) - Image hosting and video
 - [API Documentation](http://developer.photobucket.com/)
 - [Python wrapper for Photobucket](https://github.com/czpython/python-photobucket)
