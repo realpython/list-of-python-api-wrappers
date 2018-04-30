@@ -34,6 +34,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://lcamtuf.coredump.cx/afl/)
 - [Python wrapper](https://github.com/shellphish/fuzzer)
 
+### [Archive.is](http://archive.is/) - time capsule for web pages
+- [API Documentation](http://mementoweb.org/depot/native/archiveis/)
+- [Python wrapper](https://github.com/pastpages/archiveis)
+
 ### [Archive.org](http://archive.org/) - Internet Archive
 - [API Documentation](http://archive.org/help/json.php)
 - [Python wrapper for archive.org](https://pypi.python.org/pypi/internetarchive)
