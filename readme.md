@@ -208,6 +208,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://www.fullcontact.com/developer/)
 - [Python wrapper for FullContact](https://github.com/garbados/fullcontact.py)
 
+### [Genius](http://genius.com/) - Song lyrics and annotations
+- [API Documentation](https://docs.genius.com/)
+- [Python wrapper for Genius](https://github.com/johnwmillr/LyricsGenius)
+
 ### [Geocodio](https://geocod.io/) - Ridiculously affordable geocoding
 - [API Documentation](https://geocod.io/docs/)
 - [Python wrapper for Geocodio](https://github.com/bennylope/pygeocodio)
