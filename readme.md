@@ -492,6 +492,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://developers.soundcloud.com/)
 - [Python wrapper for Soundcloud](https://github.com/soundcloud/soundcloud-python)
 
+### [Sportradar](https://developer.sportradar.com/) - Broad range of sports APIs
+- [API Documentation](https://developer.sportradar.com/io-docs)
+- [Python wrapper for Sportradar](https://github.com/johnwmillr/SportradarAPIs)
+
 ### [Spotify](https://spotify.com/) - Music streaming service
 - [API Documentation](https://developer.spotify.com/)
 - [Python wrapper for Spotify](https://pypi.python.org/pypi/pyspotify/1.2)
