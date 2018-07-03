@@ -67,6 +67,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://azure.microsoft.com/en-us/develop/python/)
 - [Python wrapper](https://github.com/Azure/azure-sdk-for-python)
 
+### [Backblaze](https://www.backblaze.com/) - cloud backup and storage provider
+- [API Documentation](https://www.backblaze.com/b2/docs/)
+- [Python wrapper](https://github.com/sibblegp/b2blaze)
+
 ### [Balanced](http://www.balancedpayments.com) - Payments for Marketplaces
 - [API Documentation](https://docs.balancedpayments.com/current/api)
 - [Python wrapper for Balanced](https://github.com/balanced/balanced-python)
@@ -436,6 +440,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 ### [Polar Devices](http://www.polar.com) - Watches and devices
 - [API Documentation](http://developer.polar.com/wiki/AccessLink)
 - [Python wrapper](https://github.com/rsc-dev/loophole)
+
+### [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/) - database of medical publications
+- [API Documentation](https://www.ncbi.nlm.nih.gov/pmc/tools/developers/)
+- [Python wrapper](https://github.com/gijswobben/pymed)
 
 ### [Rackspace](http://www.rackspace.com/) - Open cloud company
 - [API Documentation](http://docs.rackspace.com/sdks/guide/content/python.html)
