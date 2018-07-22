@@ -413,6 +413,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://developer.pagerduty.com/documentation/integration/events)
 - [Python Wrapper for PagerDuty](https://github.com/dropbox/pygerduty)
 
+### [Peercoin](https://peercoin.net) - Open source P2P money
+- [API Documentation](https://docs.peercoin.net/#/json-rpc-api-reference)
+- [JSON-RPC API Python wrapper](https://github.com/peercoin/peercoin_rpc)
+
 ### [Pinterest](http://pinterest.com/) - Pinboard-style sharing
 - [API Documentation](http://developers.pinterest.com/)
 - [Python wrapper for Pinterest](https://github.com/ironchief/python-pinterest)
