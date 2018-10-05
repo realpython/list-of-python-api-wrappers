@@ -385,6 +385,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://data.nasa.gov/developer)
 - [Python wrapper for NASA](https://github.com/emirozer/bowshock)
 
+### [NBA Stats](https://stats.nba.com/) - NBA Advanced Stats
+- [API Documentation](https://github.com/swar/nba_api/blob/master/docs/table_of_contents.md)
+- [Python wrapper](https://github.com/swar/nba_api)
+
 ### [Netflix](http://www.netflix.com/) - On-demand streaming media
 - [API Documentation](http://developer.netflix.com/)
 - [Python wrapper for Netflix](https://github.com/jcopenha/pyflix)
