@@ -483,7 +483,7 @@ Hi. Below you will find a list of web services along with links to their docs an
 
 ### [SendGrid](https://sendgrid.com/) - Email API for developers
 - [API Documentation](https://sendgrid.com/docs/for-developers/sending-email/api-getting-started/)
-- [Python wrapper for Stripe](https://github.com/sendgrid/sendgrid-python)
+- [Python wrapper](https://github.com/sendgrid/sendgrid-python)
 
 ### [Skyscanner](http://www.skyscanner.net/) - Travel metasearch
 - [API Documentation](http://business.skyscanner.net/portal/en-GB/Documentation/ApiOverview)
