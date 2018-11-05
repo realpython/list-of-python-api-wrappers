@@ -517,8 +517,8 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [Python wrapper for Sportradar](https://github.com/johnwmillr/SportradarAPIs)
 
 ### [Spotify](https://spotify.com/) - Music streaming service
-- [API Documentation](https://developer.spotify.com/)
-- [Python wrapper for Spotify](https://pypi.python.org/pypi/pyspotify/1.2)
+- [API Documentation](https://developer.spotify.com/documentation/)
+- [Python wrapper for Spotify](https://github.com/plamere/spotipy)
 
 ### [Spreedly](https://spreedly.com/) - Cloud based credit card vault
 - [API Documentation](https://core.spreedly.com/manual/quickstart)
