@@ -244,6 +244,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://cloud.google.com/functions/docs/apis)
 - [Python wrapper](https://github.com/MartinSahlen/cloud-functions-python)
 
+### [Google Drive](https://www.google.com/drive/) - File storage service
+- [API Documentation](https://developers.google.com/drive/api/v3/reference/)
+- [Python wrapper](https://github.com/nurdtechie98/drive-cli)
+
 ### [Google Maps](http://maps.google.com/) - Web mapping service
 - [API Documentation](https://developers.google.com/maps/)
 - [Python wrapper for Google Maps](http://code.google.com/p/pymaps/)
