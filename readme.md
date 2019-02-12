@@ -299,6 +299,7 @@ Hi. Below you will find a list of web services along with links to their docs an
 ### [IEX](https://iextrading.com/) - Real-time and historical stock prices
 - [API Documentation](https://iextrading.com/developer/docs)
 - [Python wrapper for IEX](https://github.com/addisonlynch/iexfinance)
+- [Python backtesting engine with IEX Cloud support to train AI to make future price predictions](https://github.com/AlgoTraders/stock-analysis-engine)
 
 ### [iFixit](http://www.ifixit.com/) - The free repair manual
 - [API Documentation](https://www.ifixit.com/api/2.0/doc)
