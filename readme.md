@@ -305,6 +305,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://www.ifixit.com/api/2.0/doc)
 - [Python wrapper for iFixit](https://github.com/xiongchiamiov/pyfixit)
 
+### [iFormBuilder](https://www.zerionsoftware.com/iformbuilder) - Mobile Data Collection Software
+- [API Documentation](https://iformbuilder.docs.apiary.io)
+- [Python wrapper for iFormBuilder](https://github.com/jhsu98/ifb-wrapper)
+
 ### [iHackernews](http://www.ihackernews.com/) - Hacker News Mobile
 - [API Documentation](http://api.ihackernews.com/)
 - [Python wrapper for iHackerNews](https://github.com/dmpayton/python-ihackernews)
