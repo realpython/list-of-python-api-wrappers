@@ -382,6 +382,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://metwit.com/weather-api/)
 - [Python wrapper for Metwit](http://soup.metwit.com/post/45997437810/python-weather-by-metwit)
 
+### [Mixcloud](https://www.mixcloud.com/) - Social music streaming
+- [API Documentation](https://www.mixcloud.com/developers/)
+- [Python wrapper](https://github.com/amikrop/aiomixcloud)
+
 ### [MLB GameDay](http://gd2.mlb.com/components/game/mlb/) - Real-time MLB data
 - [API Documentation](http://panzarino.me/mlbgame/)
 - [Python wrapper](https://github.com/zachpanz88/mlbgame)
