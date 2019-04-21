@@ -325,6 +325,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://instagram.com/developer/)
 - [Python wrapper for Instagram](https://github.com/Instagram/python-instagram)
 
+### [Intercom](https://www.intercom.com) - Marketing and Customer support
+- [API Documentation](https://developers.intercom.com/intercom-api-reference/reference)
+- [Python wrapper for Intercom](https://github.com/intercom/python-intercom)
+
 ### [Investopedia](http://www.investopedia.com/simulator/) - Stock Simulator
 - [API Documentation](http://www.investopedia.com/simulator/)
 - [Python wrapper](https://github.com/kirkthaker/investopedia-trading-api)
