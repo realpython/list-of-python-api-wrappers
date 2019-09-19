@@ -358,9 +358,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [Python wrapper](https://github.com/ArdalanM/pyLightGBM)
 
 ### [LinkedIn](http://linkedin.com/) - Professional Social Network
-- [API Documentation](http://developer.linkedin.com/apis)
-- [Python wrapper #1](https://github.com/ozgur/python-linkedin)
-- [Python wrapper #2](https://github.com/michaelhelmick/linkedin)
+- [API Documentation](https://docs.microsoft.com/en-us/linkedin/)
+- [Python wrapper #1](https://github.com/tomquirk/linkedin-api)
+- [Python wrapper #2](https://github.com/ozgur/python-linkedin)
+- [Python wrapper #3](https://github.com/michaelhelmick/linkedin)
 
 ### [Loggly](http://loggly.com/) - Cloud-based logging
 - [API Documentation](http://loggly.com/support/advanced/extending-loggly)
