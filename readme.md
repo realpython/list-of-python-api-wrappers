@@ -20,7 +20,11 @@ Hi. Below you will find a list of web services along with links to their docs an
 
 ### [Amazon S3](https://aws.amazon.com/s3/) - Cloud storage
 - [API Documentation](https://aws.amazon.com/documentation/s3/)
-- [Python wrapper](https://github.com/kennethreitz/bucketstore)
+- [Python wrapper](https://github.com/jpetrucciani/bucketstore)
+
+### [Amazon SQS](https://aws.amazon.com/sqs/) - Managed Queue Service
+- [API Documentation](https://aws.amazon.com/documentation/sqs/)
+- [Python wrapper](https://github.com/jpetrucciani/qoo)
 
 ### [AWS](http://aws.amazon.com) - Cloud computing platform
 - [API Documentation](http://aws.amazon.com/documentation/)
@@ -295,6 +299,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 ### [HipChat](https://www.hipchat.com/) - Hosted group chat and IM
 - [API Documentation](https://www.hipchat.com/docs/api)
 - [Python wrapper for HipChat](https://github.com/dobarkod/hipchat-api)
+
+### [HubSpot](https://www.hubspot.com/) - Marketing, Sales, and CRM software
+- [API Documentation](https://developers.hubspot.com/docs/overview)
+- [Python wrapper for HubSpot](https://github.com/jpetrucciani/hubspot3)
 
 ### [IEX](https://iextrading.com/) - Real-time and historical stock prices
 - [API Documentation](https://iextrading.com/developer/docs)
