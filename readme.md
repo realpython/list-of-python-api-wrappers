@@ -515,6 +515,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://sendgrid.com/docs/for-developers/sending-email/api-getting-started/)
 - [Python wrapper](https://github.com/sendgrid/sendgrid-python)
 
+### [Shodan](https://www.shodan.io/) - Search engine for Internet-connected devices
+- [API Documentation](https://developer.shodan.io/)
+- [Python wrapper](https://github.com/achillean/shodan-python)
+
 ### [Skyscanner](http://www.skyscanner.net/) - Travel metasearch
 - [API Documentation](http://business.skyscanner.net/portal/en-GB/Documentation/ApiOverview)
 - [Python wrapper for Skyscanner](https://github.com/Skyscanner/skyscanner-python-sdk)
