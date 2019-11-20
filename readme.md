@@ -111,6 +111,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://www.braintreepayments.com/developers)
 - [Python wrapper for Braintree](https://github.com/braintree/braintree_python)
 
+### [Buildkite](https://www.buildkite.com/) - Continuous Integration
+- [API Documentation](https://buildkite.com/docs/apis/rest-api)
+- [Python wrapper for Buildkite](https://github.com/pyasi/pybuildkite)
+
 ### [Carriots](https://www.carriots.com) - M2M Application Platform
 - [API Documentation](https://www.carriots.com/documentation/api)
 - [Python wrapper for Carriots](https://github.com/sdeancos/clicarriots)
