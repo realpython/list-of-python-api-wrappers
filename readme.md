@@ -79,6 +79,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://docs.balancedpayments.com/current/api)
 - [Python wrapper for Balanced](https://github.com/balanced/balanced-python)
 
+### [Bearer.sh](http://www.bearer.sh) - API integrations platform
+- [API Documentation](https://docs.bearer.sh/integration-clients/python)
+- [Python wrapper for any APIs](https://github.com/Bearer/bearer-python)
+
 ### [BigML](https://bigml.com/) - Machine Learning Made Easy
 - [API Documentation](https://bigml.com/developers)
 - [Python wrapper for BigML](https://github.com/bigmlcom/python)
