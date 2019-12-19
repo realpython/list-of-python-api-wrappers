@@ -143,6 +143,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://www.coinpayments.net/apidoc)
 - [Python wrapper](https://github.com/DogFive/pyCoinPayments)
 
+### [Countries](https://restcountries.eu/#rest-countries) - Country Information
+- [API Documentation](https://restcountries.eu/#api-endpoints)
+- [Python wrapper for REST Countries](https://github.com/leonkozlowski/python-countries)
+
 ### [Craigslist](http://www.craigslist.org/) - Classified advertisements
 - [API Documentation](https://github.com/juliomalegria/python-craigslist)
 - [Python wrapper](https://github.com/juliomalegria/python-craigslist)
