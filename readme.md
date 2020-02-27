@@ -862,7 +862,7 @@ Info Date   | 2014/12/21
 **Observations and notes:**
 
  + **2014/12/21:**
-   - This is a fork of version 1.8.1 of dbr/tvdb_api (https://github.com/dbr/tvdb_api/tree/master) recomended for use with TVDB Cache Server (https://github.com/fuzeman/tvdb-cache-server)
+   - This is a fork of version 1.8.1 of dbr/tvdb_api (https://github.com/dbr/tvdb_api/tree/master) recommended for use with TVDB Cache Server (https://github.com/fuzeman/tvdb-cache-server)
 
 ##### tvdbpy: Yet another TvDB API Python wrapper. Work in progress.
 to          |   click
