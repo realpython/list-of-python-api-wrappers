@@ -981,3 +981,7 @@ Info Date   | 2014/12/20
 ### [YouTube](http://www.youtube.com) - Video-sharing website
 - [API Documentation](https://developers.google.com/youtube/)
 - [Python wrapper for YouTube](https://pypi.python.org/pypi/youtube-api-wrapper/0.2)
+
+### [Zoop](https://zoop.com.br/) - Payment Gateway
+- [API Documentation](https://docs.zoop.co/docs)
+- [Python wrapper for Zoop](https://pypi.org/project/zoop-wrapper/)
