@@ -467,6 +467,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://docs.peercoin.net/#/json-rpc-api-reference)
 - [JSON-RPC API Python wrapper](https://github.com/peercoin/peercoin_rpc)
 
+### [PicPay](https://picpay.com/) - Payment gateway
+- [API Documentation](https://ecommerce.picpay.com/doc/)
+- [Python wrapper for PicPay](https://github.com/hudsonbrendon/picpay-python)
+
 ### [Pinterest](http://pinterest.com/) - Pinboard-style sharing
 - [API Documentation](http://developers.pinterest.com/)
 - [Python wrapper for Pinterest](https://github.com/ironchief/python-pinterest)
