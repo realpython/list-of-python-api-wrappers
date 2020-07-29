@@ -83,6 +83,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://docs.bearer.sh/integration-clients/python)
 - [Python wrapper](https://github.com/Bearer/bearer-python)
 
+### [Bet365](https://www.bet365.com/) - Online Sports Betting
+- [API Documentation](https://rapidapi.com/1394697259/api/bet365-sports-odds)
+- [Python wrapper for Bet365](https://github.com/leonkozlowski/pybet365)
+
 ### [BigML](https://bigml.com/) - Machine Learning Made Easy
 - [API Documentation](https://bigml.com/developers)
 - [Python wrapper for BigML](https://github.com/bigmlcom/python)
