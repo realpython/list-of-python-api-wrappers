@@ -387,6 +387,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://loggly.com/support/advanced/extending-loggly)
 - [Python wrapper for Loggly](https://github.com/loggly/hoover)
 
+### [LoginRadius](https://www.loginradius.com/) - Authentication and Single Sign-On Implementation
+- [API Documentation](https://www.loginradius.com/docs/api/v2/getting-started/introduction/)
+- [Python SDK for LoginRadius](https://github.com/LoginRadius/python-sdk)
+
 ### [Medium](https://medium.com/) - blog publishing platform
 - [API Documentation](https://github.com/enginebai/PyMedium)
 - [Python wrapper](https://github.com/enginebai/PyMedium)
