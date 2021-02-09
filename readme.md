@@ -131,6 +131,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://docs.chargify.com/api-introduction)
 - [Python wrapper for Chargify](https://github.com/hindsightlabs/chargify-python)
 
+### [Checkvist](https://checkvist.com/) - List making/task management
+- [API Documentation](https://checkvist.com/auth/api)
+- [Python wrapper for Checkvist](https://github.com/nuno-andre/checkvist)
+
 ### [Close.io](http://close.io) - Sales communication platform
 - [API Documentation](http://developer.close.io)
 - [Python wrapper for Close.io](https://github.com/elasticsales/closeio-api/)
