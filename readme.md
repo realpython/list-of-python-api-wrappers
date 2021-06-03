@@ -341,6 +341,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://www.indeed.com/jsp/apiinfo.jsp)
 - [Python wrapper for indeed.com](https://github.com/fission6/python-indeed)
 
+### [iNaturalist](https://www.inaturalist.org) - Species identification & community science platform
+- [API Documentation](https://api.inaturalist.org/v1/docs)
+- [Python wrapper for iNaturalist](https://github.com/niconoe/pyinaturalist)
+
 ### [Instagram](http://www.instagram.com) - Online photo sharing
 - [API Documentation](http://instagram.com/developer/)
 - [Python wrapper for Instagram](https://github.com/Instagram/python-instagram)
