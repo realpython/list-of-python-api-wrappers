@@ -119,6 +119,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://buildkite.com/docs/apis/rest-api)
 - [Python wrapper for Buildkite](https://github.com/pyasi/pybuildkite)
 
+### [Calendly](https://calendly.com/) - Meeting Scheduling Platform
+- [API Documentation](hhttps://calendly.stoplight.io/docs/api-docs)
+- [Python wrapper for Calendly](https://github.com/laxmena/PyCalendly
+
 ### [Carriots](https://www.carriots.com) - M2M Application Platform
 - [API Documentation](https://www.carriots.com/documentation/api)
 - [Python wrapper for Carriots](https://github.com/sdeancos/clicarriots)
