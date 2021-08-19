@@ -622,6 +622,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](https://github.com/thekarangoel/TPB)
 - [Python wrapper for TPB](https://github.com/thekarangoel/TPB)
 
+### [LoginRadius](https://www.loginradius.com) - The World's First No-Code Identity Platform
+- [API Documentation](https://www.loginradius.com/docs/developer/#api)
+- [Python wrapper for LoginRadius](https://github.com/LoginRadius/python-sdk)
+
 ### [The Movie Database](http://www.themoviedb.org) - Movie and TV Database
 
 #### Official Site
