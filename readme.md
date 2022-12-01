@@ -590,6 +590,10 @@ Hi. Below you will find a list of web services along with links to their docs an
 - [API Documentation](http://sunlightfoundation.com/api/)
 - [Python wrapper for Sunlight Foundation](http://python-sunlight.readthedocs.org/en/latest/)
 
+### [Svix](http://www.svix.com/) - Webhooks as a Service
+- [API Documentation](https://docs.svix.com/)
+- [Python wrapper for Svix](https://github.com/svix/svix-webhooks/tree/main/python)
+
 ### [Syncthing](https://syncthing.net/) - Decentralized data sync
 - [API Documentation](https://docs.syncthing.net/dev/rest.html)
 - [Python wrapper for Syncthing](https://github.com/blakev/python-syncthing)
